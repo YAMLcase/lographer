@@ -1,0 +1,1426 @@
+Nov 24 03:38:01 centos7 rsyslogd: [origin software="rsyslogd" swVersion="8.24.0-41.el7_7" x-pid="1051" x-info="http://www.rsyslog.com"] rsyslogd was HUPed
+Nov 24 03:38:01 centos7 systemd: Removed slice User Slice of root.
+Nov 24 04:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 24 04:01:01 centos7 systemd: Started Session 837 of user root.
+Nov 24 04:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 24 05:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 24 05:01:01 centos7 systemd: Started Session 838 of user root.
+Nov 24 05:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 24 06:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 24 06:01:01 centos7 systemd: Started Session 839 of user root.
+Nov 24 06:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 24 07:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 24 07:01:01 centos7 systemd: Started Session 840 of user root.
+Nov 24 07:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 24 07:47:30 centos7 systemd-logind: Removed session 1.
+Nov 24 07:47:41 centos7 systemd-logind: Removed session 814.
+Nov 24 07:47:41 centos7 systemd: Removed slice User Slice of larryc.
+Nov 24 07:48:00 centos7 systemd: Created slice User Slice of larryc.
+Nov 24 07:48:00 centos7 systemd: Started Session 841 of user larryc.
+Nov 24 07:48:00 centos7 systemd-logind: New session 841 of user larryc.
+Nov 24 08:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 24 08:01:01 centos7 systemd: Started Session 842 of user root.
+Nov 24 08:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 24 09:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 24 09:01:01 centos7 systemd: Started Session 843 of user root.
+Nov 24 09:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 24 10:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 24 10:01:01 centos7 systemd: Started Session 844 of user root.
+Nov 24 10:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 24 11:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 24 11:01:01 centos7 systemd: Started Session 845 of user root.
+Nov 24 11:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 24 12:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 24 12:01:01 centos7 systemd: Started Session 846 of user root.
+Nov 24 12:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 24 13:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 24 13:01:01 centos7 systemd: Started Session 847 of user root.
+Nov 24 13:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 24 14:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 24 14:01:01 centos7 systemd: Started Session 848 of user root.
+Nov 24 14:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 24 15:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 24 15:01:01 centos7 systemd: Started Session 849 of user root.
+Nov 24 15:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 24 16:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 24 16:01:01 centos7 systemd: Started Session 850 of user root.
+Nov 24 16:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 24 17:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 24 17:01:01 centos7 systemd: Started Session 851 of user root.
+Nov 24 17:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 24 18:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 24 18:01:02 centos7 systemd: Started Session 852 of user root.
+Nov 24 18:01:02 centos7 systemd: Removed slice User Slice of root.
+Nov 24 19:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 24 19:01:01 centos7 systemd: Started Session 853 of user root.
+Nov 24 19:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 24 20:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 24 20:01:01 centos7 systemd: Started Session 854 of user root.
+Nov 24 20:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 24 21:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 24 21:01:01 centos7 systemd: Started Session 855 of user root.
+Nov 24 21:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 24 22:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 24 22:01:01 centos7 systemd: Started Session 856 of user root.
+Nov 24 22:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 24 23:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 24 23:01:01 centos7 systemd: Started Session 857 of user root.
+Nov 24 23:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 25 00:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 25 00:01:01 centos7 systemd: Started Session 858 of user root.
+Nov 25 00:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 25 01:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 25 01:01:01 centos7 systemd: Started Session 859 of user root.
+Nov 25 01:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 25 01:50:20 centos7 systemd: Starting Cleanup of Temporary Directories...
+Nov 25 01:50:20 centos7 systemd: Started Cleanup of Temporary Directories.
+Nov 25 02:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 25 02:01:01 centos7 systemd: Started Session 860 of user root.
+Nov 25 02:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 25 03:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 25 03:01:01 centos7 systemd: Started Session 861 of user root.
+Nov 25 03:49:01 centos7 systemd: Removed slice User Slice of root.
+Nov 25 04:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 25 04:01:01 centos7 systemd: Started Session 862 of user root.
+Nov 25 04:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 25 05:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 25 05:01:01 centos7 systemd: Started Session 863 of user root.
+Nov 25 05:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 25 06:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 25 06:01:01 centos7 systemd: Started Session 864 of user root.
+Nov 25 06:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 25 07:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 25 07:01:01 centos7 systemd: Started Session 865 of user root.
+Nov 25 07:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 25 08:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 25 08:01:01 centos7 systemd: Started Session 866 of user root.
+Nov 25 08:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 25 09:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 25 09:01:01 centos7 systemd: Started Session 867 of user root.
+Nov 25 09:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 25 10:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 25 10:01:01 centos7 systemd: Started Session 868 of user root.
+Nov 25 10:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 25 11:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 25 11:01:01 centos7 systemd: Started Session 869 of user root.
+Nov 25 11:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 25 11:03:09 centos7 kernel: hv_utils: Heartbeat IC version 3.0
+Nov 25 11:03:09 centos7 kernel: hv_utils: TimeSync IC version 4.0
+Nov 25 11:03:09 centos7 kernel: hv_utils: VSS IC version 5.0
+Nov 25 11:03:09 centos7 kernel: hv_utils: Shutdown IC version 3.0
+Nov 25 12:49:48 centos7 systemd: Time has been changed
+Nov 25 12:49:50 centos7 kernel: hv_balloon: Max. dynamic memory size: 1048576 MB
+Nov 25 12:49:50 centos7 NetworkManager[810]: <info>  [1574707790.7688] device (eth0): carrier: link connected
+Nov 25 12:49:56 centos7 NetworkManager[810]: <info>  [1574707796.7808] device (eth0): carrier: link connected
+Nov 25 12:51:20 centos7 chronyd[795]: Forward time jump detected!
+Nov 25 12:51:20 centos7 chronyd[795]: Can't synchronise: no selectable sources
+Nov 25 12:53:23 centos7 kernel: Initializing cgroup subsys cpuset
+Nov 25 12:53:23 centos7 kernel: Initializing cgroup subsys cpu
+Nov 25 12:53:23 centos7 kernel: Initializing cgroup subsys cpuacct
+Nov 25 12:53:23 centos7 kernel: Linux version 3.10.0-1062.1.1.el7.x86_64 (mockbuild@kbuilder.bsys.centos.org) (gcc version 4.8.5 20150623 (Red Hat 4.8.5-39) (GCC) ) #1 SMP Fri Sep 13 22:55:44 UTC 2019
+Nov 25 12:53:23 centos7 kernel: Command line: BOOT_IMAGE=/vmlinuz-3.10.0-1062.1.1.el7.x86_64 root=/dev/mapper/centos_centos7-root ro crashkernel=auto rd.lvm.lv=centos_centos7/root rd.lvm.lv=centos_centos7/swap rhgb quiet LANG=en_US.UTF-8
+Nov 25 12:53:23 centos7 kernel: e820: BIOS-provided physical RAM map:
+Nov 25 12:53:23 centos7 kernel: BIOS-e820: [mem 0x0000000000000000-0x000000000009fbff] usable
+Nov 25 12:53:23 centos7 kernel: BIOS-e820: [mem 0x000000000009fc00-0x000000000009ffff] reserved
+Nov 25 12:53:23 centos7 kernel: BIOS-e820: [mem 0x00000000000e0000-0x00000000000fffff] reserved
+Nov 25 12:53:23 centos7 kernel: BIOS-e820: [mem 0x0000000000100000-0x00000000f7feffff] usable
+Nov 25 12:53:23 centos7 kernel: BIOS-e820: [mem 0x00000000f7ff0000-0x00000000f7ffefff] ACPI data
+Nov 25 12:53:23 centos7 kernel: BIOS-e820: [mem 0x00000000f7fff000-0x00000000f7ffffff] ACPI NVS
+Nov 25 12:53:23 centos7 kernel: BIOS-e820: [mem 0x0000000100000000-0x0000000107ffffff] usable
+Nov 25 12:53:23 centos7 kernel: NX (Execute Disable) protection: active
+Nov 25 12:53:23 centos7 kernel: SMBIOS 2.3 present.
+Nov 25 12:53:23 centos7 kernel: DMI: Microsoft Corporation Virtual Machine/Virtual Machine, BIOS 090008  12/07/2018
+Nov 25 12:53:23 centos7 kernel: Hypervisor detected: Microsoft HyperV
+Nov 25 12:53:23 centos7 kernel: HyperV: features 0x2e7f, hints 0x20c2c
+Nov 25 12:53:23 centos7 kernel: Hyper-V Host Build:18362-10.0-0-0.476
+Nov 25 12:53:23 centos7 kernel: HyperV: LAPIC Timer Frequency: 0x30d40
+Nov 25 12:53:23 centos7 kernel: tsc: Marking TSC unstable due to running on Hyper-V
+Nov 25 12:53:23 centos7 kernel: Hyper-V: Using ext hypercall for remote TLB flush
+Nov 25 12:53:23 centos7 kernel: e820: last_pfn = 0x108000 max_arch_pfn = 0x400000000
+Nov 25 12:53:23 centos7 kernel: PAT configuration [0-7]: WB  WC  UC- UC  WB  WP  UC- UC  
+Nov 25 12:53:23 centos7 kernel: e820: last_pfn = 0xf7ff0 max_arch_pfn = 0x400000000
+Nov 25 12:53:23 centos7 kernel: found SMP MP-table at [mem 0x000ff780-0x000ff78f] mapped at [ffffffffff200780]
+Nov 25 12:53:23 centos7 kernel: Using GB pages for direct mapping
+Nov 25 12:53:23 centos7 kernel: RAMDISK: [mem 0x3585e000-0x36c26fff]
+Nov 25 12:53:23 centos7 kernel: Early table checksum verification disabled
+Nov 25 12:53:23 centos7 kernel: ACPI: RSDP 00000000000f5c00 00014 (v00 ACPIAM)
+Nov 25 12:53:23 centos7 kernel: ACPI: RSDT 00000000f7ff0000 00040 (v01 VRTUAL MICROSFT 12001807 MSFT 00000097)
+Nov 25 12:53:23 centos7 kernel: ACPI: FACP 00000000f7ff0200 00081 (v02 VRTUAL MICROSFT 12001807 MSFT 00000097)
+Nov 25 12:53:23 centos7 kernel: ACPI: DSDT 00000000f7ff1d24 03CD5 (v01 MSFTVM MSFTVM02 00000002 INTL 02002026)
+Nov 25 12:53:23 centos7 kernel: ACPI: FACS 00000000f7fff000 00040
+Nov 25 12:53:23 centos7 kernel: ACPI: WAET 00000000f7ff1a80 00028 (v01 VRTUAL MICROSFT 12001807 MSFT 00000097)
+Nov 25 12:53:23 centos7 kernel: ACPI: SLIC 00000000f7ff1ac0 00176 (v01 VRTUAL MICROSFT 12001807 MSFT 00000097)
+Nov 25 12:53:23 centos7 kernel: ACPI: OEM0 00000000f7ff1cc0 00064 (v01 VRTUAL MICROSFT 12001807 MSFT 00000097)
+Nov 25 12:53:23 centos7 kernel: ACPI: SRAT 00000000f7ff0800 000E0 (v02 VRTUAL MICROSFT 00000001 MSFT 00000001)
+Nov 25 12:53:23 centos7 kernel: ACPI: APIC 00000000f7ff0300 0005A (v01 VRTUAL MICROSFT 12001807 MSFT 00000097)
+Nov 25 12:53:23 centos7 kernel: ACPI: OEMB 00000000f7fff040 00064 (v01 VRTUAL MICROSFT 12001807 MSFT 00000097)
+Nov 25 12:53:23 centos7 kernel: SRAT: PXM 0 -> APIC 0x00 -> Node 0
+Nov 25 12:53:23 centos7 kernel: SRAT: Node 0 PXM 0 [mem 0x00000000-0xf7ffffff] hotplug
+Nov 25 12:53:23 centos7 kernel: SRAT: Node 0 PXM 0 [mem 0x100000000-0x107ffffff] hotplug
+Nov 25 12:53:23 centos7 kernel: SRAT: Node 0 PXM 0 [mem 0x108200000-0xfdfffffff] hotplug
+Nov 25 12:53:23 centos7 kernel: SRAT: Node 0 PXM 0 [mem 0x1000000000-0xffffffffff] hotplug
+Nov 25 12:53:23 centos7 kernel: NUMA: Node 0 [mem 0x00000000-0xf7ffffff] + [mem 0x100000000-0x107ffffff] -> [mem 0x00000000-0x107ffffff]
+Nov 25 12:53:23 centos7 kernel: NODE_DATA(0) allocated [mem 0x107fd9000-0x107ffffff]
+Nov 25 12:53:23 centos7 kernel: Reserving 161MB of memory at 688MB for crashkernel (System RAM: 4095MB)
+Nov 25 12:53:23 centos7 kernel: Zone ranges:
+Nov 25 12:53:23 centos7 kernel:  DMA      [mem 0x00001000-0x00ffffff]
+Nov 25 12:53:23 centos7 kernel:  DMA32    [mem 0x01000000-0xffffffff]
+Nov 25 12:53:23 centos7 kernel:  Normal   [mem 0x100000000-0x107ffffff]
+Nov 25 12:53:23 centos7 kernel: Movable zone start for each node
+Nov 25 12:53:23 centos7 kernel: Early memory node ranges
+Nov 25 12:53:23 centos7 kernel:  node   0: [mem 0x00001000-0x0009efff]
+Nov 25 12:53:23 centos7 kernel:  node   0: [mem 0x00100000-0xf7feffff]
+Nov 25 12:53:23 centos7 kernel:  node   0: [mem 0x100000000-0x107ffffff]
+Nov 25 12:53:23 centos7 kernel: Initmem setup node 0 [mem 0x00001000-0x107ffffff]
+Nov 25 12:53:23 centos7 kernel: ACPI: PM-Timer IO Port: 0x408
+Nov 25 12:53:23 centos7 kernel: ACPI: LAPIC (acpi_id[0x01] lapic_id[0x00] enabled)
+Nov 25 12:53:23 centos7 kernel: ACPI: LAPIC_NMI (acpi_id[0xff] dfl dfl lint[0x1])
+Nov 25 12:53:23 centos7 kernel: ACPI: IOAPIC (id[0x00] address[0xfec00000] gsi_base[0])
+Nov 25 12:53:23 centos7 kernel: IOAPIC[0]: apic_id 0, version 17, address 0xfec00000, GSI 0-23
+Nov 25 12:53:23 centos7 kernel: ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+Nov 25 12:53:23 centos7 kernel: ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)
+Nov 25 12:53:23 centos7 kernel: Using ACPI (MADT) for SMP configuration information
+Nov 25 12:53:23 centos7 kernel: smpboot: Allowing 1 CPUs, 0 hotplug CPUs
+Nov 25 12:53:23 centos7 kernel: PM: Registered nosave memory: [mem 0x0009f000-0x0009ffff]
+Nov 25 12:53:23 centos7 kernel: PM: Registered nosave memory: [mem 0x000a0000-0x000dffff]
+Nov 25 12:53:23 centos7 kernel: PM: Registered nosave memory: [mem 0x000e0000-0x000fffff]
+Nov 25 12:53:23 centos7 kernel: PM: Registered nosave memory: [mem 0xf7ff0000-0xf7ffefff]
+Nov 25 12:53:23 centos7 kernel: PM: Registered nosave memory: [mem 0xf7fff000-0xf7ffffff]
+Nov 25 12:53:23 centos7 kernel: PM: Registered nosave memory: [mem 0xf8000000-0xffffffff]
+Nov 25 12:53:23 centos7 kernel: e820: [mem 0xf8000000-0xffffffff] available for PCI devices
+Nov 25 12:53:23 centos7 kernel: Booting paravirtualized kernel on bare hardware
+Nov 25 12:53:23 centos7 kernel: setup_percpu: NR_CPUS:5120 nr_cpumask_bits:1 nr_cpu_ids:1 nr_node_ids:1
+Nov 25 12:53:23 centos7 kernel: PERCPU: Embedded 38 pages/cpu @ffff96f007c00000 s118784 r8192 d28672 u2097152
+Nov 25 12:53:23 centos7 kernel: Built 1 zonelists in Node order, mobility grouping on.  Total pages: 1031545
+Nov 25 12:53:23 centos7 kernel: Policy zone: Normal
+Nov 25 12:53:23 centos7 kernel: Kernel command line: BOOT_IMAGE=/vmlinuz-3.10.0-1062.1.1.el7.x86_64 root=/dev/mapper/centos_centos7-root ro crashkernel=auto rd.lvm.lv=centos_centos7/root rd.lvm.lv=centos_centos7/swap rhgb quiet LANG=en_US.UTF-8
+Nov 25 12:53:23 centos7 kernel: PID hash table entries: 4096 (order: 3, 32768 bytes)
+Nov 25 12:53:23 centos7 kernel: x86/fpu: xstate_offset[2]: 0240, xstate_sizes[2]: 0100
+Nov 25 12:53:23 centos7 kernel: x86/fpu: xstate_offset[3]: 03c0, xstate_sizes[3]: 0040
+Nov 25 12:53:23 centos7 kernel: x86/fpu: xstate_offset[4]: 0400, xstate_sizes[4]: 0040
+Nov 25 12:53:23 centos7 kernel: xsave: enabled xstate_bv 0x1f, cntxt size 0x440 using standard form
+Nov 25 12:53:23 centos7 kernel: Memory: 3857556k/4325376k available (7760k kernel code, 131528k absent, 336292k reserved, 5967k data, 1984k init)
+Nov 25 12:53:23 centos7 kernel: SLUB: HWalign=64, Order=0-3, MinObjects=0, CPUs=1, Nodes=1
+Nov 25 12:53:23 centos7 kernel: x86/pti: Unmapping kernel while in userspace
+Nov 25 12:53:23 centos7 kernel: Hierarchical RCU implementation.
+Nov 25 12:53:23 centos7 kernel: #011RCU restricting CPUs from NR_CPUS=5120 to nr_cpu_ids=1.
+Nov 25 12:53:23 centos7 kernel: NR_IRQS:327936 nr_irqs:256 0
+Nov 25 12:53:23 centos7 kernel: Console: colour VGA+ 80x25
+Nov 25 12:53:23 centos7 kernel: console [tty0] enabled
+Nov 25 12:53:23 centos7 kernel: allocated 16777216 bytes of page_cgroup
+Nov 25 12:53:23 centos7 kernel: please try 'cgroup_disable=memory' option if you don't want memory cgroups
+Nov 25 12:53:23 centos7 kernel: tsc: Detected 2904.009 MHz processor
+Nov 25 12:53:23 centos7 kernel: Calibrating delay loop (skipped), value calculated using timer frequency.. 5808.01 BogoMIPS (lpj=2904009)
+Nov 25 12:53:23 centos7 kernel: pid_max: default: 32768 minimum: 301
+Nov 25 12:53:23 centos7 kernel: Security Framework initialized
+Nov 25 12:53:23 centos7 kernel: SELinux:  Initializing.
+Nov 25 12:53:23 centos7 kernel: Yama: becoming mindful.
+Nov 25 12:53:23 centos7 kernel: Dentry cache hash table entries: 524288 (order: 10, 4194304 bytes)
+Nov 25 12:53:23 centos7 kernel: Inode-cache hash table entries: 262144 (order: 9, 2097152 bytes)
+Nov 25 12:53:23 centos7 kernel: Mount-cache hash table entries: 8192 (order: 4, 65536 bytes)
+Nov 25 12:53:23 centos7 kernel: Mountpoint-cache hash table entries: 8192 (order: 4, 65536 bytes)
+Nov 25 12:53:23 centos7 kernel: Initializing cgroup subsys memory
+Nov 25 12:53:23 centos7 kernel: Initializing cgroup subsys devices
+Nov 25 12:53:23 centos7 kernel: Initializing cgroup subsys freezer
+Nov 25 12:53:23 centos7 kernel: Initializing cgroup subsys net_cls
+Nov 25 12:53:23 centos7 kernel: Initializing cgroup subsys blkio
+Nov 25 12:53:23 centos7 kernel: Initializing cgroup subsys perf_event
+Nov 25 12:53:23 centos7 kernel: Initializing cgroup subsys hugetlb
+Nov 25 12:53:23 centos7 kernel: Initializing cgroup subsys pids
+Nov 25 12:53:23 centos7 kernel: Initializing cgroup subsys net_prio
+Nov 25 12:53:23 centos7 kernel: Last level iTLB entries: 4KB 0, 2MB 0, 4MB 0
+Nov 25 12:53:23 centos7 kernel: Last level dTLB entries: 4KB 64, 2MB 0, 4MB 0
+Nov 25 12:53:23 centos7 kernel: tlb_flushall_shift: 6
+Nov 25 12:53:23 centos7 kernel: FEATURE SPEC_CTRL Present
+Nov 25 12:53:23 centos7 kernel: FEATURE IBPB_SUPPORT Present
+Nov 25 12:53:23 centos7 kernel: Spectre V1 : Mitigation: Load fences, usercopy/swapgs barriers and __user pointer sanitization
+Nov 25 12:53:23 centos7 kernel: Spectre V2 : Enabling Indirect Branch Prediction Barrier
+Nov 25 12:53:23 centos7 kernel: Using IBRS as the default Spectre v2 mitigation for a Skylake-
+Nov 25 12:53:23 centos7 kernel: generation CPU.  This may have a negative performance impact.
+Nov 25 12:53:23 centos7 kernel: Spectre V2 : Mitigation: IBRS (kernel)
+Nov 25 12:53:23 centos7 kernel: Speculative Store Bypass: Mitigation: Speculative Store Bypass disabled via prctl and seccomp
+Nov 25 12:53:23 centos7 kernel: MDS: Vulnerable: Clear CPU buffers attempted, no microcode
+Nov 25 12:53:23 centos7 kernel: Freeing SMP alternatives: 28k freed
+Nov 25 12:53:23 centos7 kernel: ACPI: Core revision 20130517
+Nov 25 12:53:23 centos7 kernel: ACPI: All ACPI Tables successfully acquired
+Nov 25 12:53:23 centos7 kernel: ftrace: allocating 29538 entries in 116 pages
+Nov 25 12:53:23 centos7 kernel: ..TIMER: vector=0x30 apic1=0 pin1=2 apic2=-1 pin2=-1
+Nov 25 12:53:23 centos7 kernel: smpboot: CPU0: Intel(R) Core(TM) i9-8950HK CPU @ 2.90GHz (fam: 06, model: 9e, stepping: 0a)
+Nov 25 12:53:23 centos7 kernel: Performance Events: unsupported p6 CPU model 158 no PMU driver, software events only.
+Nov 25 12:53:23 centos7 kernel: Brought up 1 CPUs
+Nov 25 12:53:23 centos7 kernel: smpboot: Max logical packages: 1
+Nov 25 12:53:23 centos7 kernel: smpboot: Total of 1 processors activated (5808.01 BogoMIPS)
+Nov 25 12:53:23 centos7 kernel: NMI watchdog: disabled (cpu0): hardware events not enabled
+Nov 25 12:53:23 centos7 kernel: NMI watchdog: Shutting down hard lockup detector on all cpus
+Nov 25 12:53:23 centos7 kernel: devtmpfs: initialized
+Nov 25 12:53:23 centos7 kernel: x86/mm: Memory block size: 128MB
+Nov 25 12:53:23 centos7 kernel: EVM: security.selinux
+Nov 25 12:53:23 centos7 kernel: EVM: security.ima
+Nov 25 12:53:23 centos7 kernel: EVM: security.capability
+Nov 25 12:53:23 centos7 kernel: PM: Registering ACPI NVS region [mem 0xf7fff000-0xf7ffffff] (4096 bytes)
+Nov 25 12:53:23 centos7 kernel: atomic64 test passed for x86-64 platform with CX8 and with SSE
+Nov 25 12:53:23 centos7 kernel: pinctrl core: initialized pinctrl subsystem
+Nov 25 12:53:23 centos7 kernel: RTC time: 18:53:23, date: 11/25/19
+Nov 25 12:53:23 centos7 kernel: NET: Registered protocol family 16
+Nov 25 12:53:23 centos7 kernel: ACPI: bus type PCI registered
+Nov 25 12:53:23 centos7 kernel: acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+Nov 25 12:53:23 centos7 kernel: PCI: Using configuration type 1 for base access
+Nov 25 12:53:23 centos7 kernel: ACPI: Added _OSI(Module Device)
+Nov 25 12:53:23 centos7 kernel: ACPI: Added _OSI(Processor Device)
+Nov 25 12:53:23 centos7 kernel: ACPI: Added _OSI(3.0 _SCP Extensions)
+Nov 25 12:53:23 centos7 kernel: ACPI: Added _OSI(Processor Aggregator Device)
+Nov 25 12:53:23 centos7 kernel: ACPI: Added _OSI(Linux-Dell-Video)
+Nov 25 12:53:23 centos7 kernel: ACPI: Executed 1 blocks of module-level executable AML code
+Nov 25 12:53:23 centos7 kernel: ACPI: Interpreter enabled
+Nov 25 12:53:23 centos7 kernel: ACPI: (supports S0 S5)
+Nov 25 12:53:23 centos7 kernel: ACPI: Using IOAPIC for interrupt routing
+Nov 25 12:53:23 centos7 kernel: PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+Nov 25 12:53:23 centos7 kernel: ACPI: Enabled 1 GPEs in block 00 to 0F
+Nov 25 12:53:23 centos7 kernel: ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-ff])
+Nov 25 12:53:23 centos7 kernel: acpi PNP0A03:00: _OSC: OS supports [ASPM ClockPM Segments MSI]
+Nov 25 12:53:23 centos7 kernel: acpi PNP0A03:00: _OSC failed (AE_NOT_FOUND); disabling ASPM
+Nov 25 12:53:23 centos7 kernel: acpi PNP0A03:00: fail to add MMCONFIG information, can't access extended PCI configuration space under this bridge.
+Nov 25 12:53:23 centos7 kernel: PCI host bridge to bus 0000:00
+Nov 25 12:53:23 centos7 kernel: pci_bus 0000:00: root bus resource [mem 0xfe0000000-0xfffffffff window]
+Nov 25 12:53:23 centos7 kernel: pci_bus 0000:00: root bus resource [io  0x0000-0x0cf7 window]
+Nov 25 12:53:23 centos7 kernel: pci_bus 0000:00: root bus resource [io  0x0d00-0xffff window]
+Nov 25 12:53:23 centos7 kernel: pci_bus 0000:00: root bus resource [mem 0x000a0000-0x000bffff window]
+Nov 25 12:53:23 centos7 kernel: pci_bus 0000:00: root bus resource [mem 0xf8000000-0xfffbffff window]
+Nov 25 12:53:23 centos7 kernel: pci_bus 0000:00: root bus resource [bus 00-ff]
+Nov 25 12:53:23 centos7 kernel: pci 0000:00:07.1: legacy IDE quirk: reg 0x10: [io  0x01f0-0x01f7]
+Nov 25 12:53:23 centos7 kernel: pci 0000:00:07.1: legacy IDE quirk: reg 0x14: [io  0x03f6]
+Nov 25 12:53:23 centos7 kernel: pci 0000:00:07.1: legacy IDE quirk: reg 0x18: [io  0x0170-0x0177]
+Nov 25 12:53:23 centos7 kernel: pci 0000:00:07.1: legacy IDE quirk: reg 0x1c: [io  0x0376]
+Nov 25 12:53:23 centos7 kernel: * Found PM-Timer Bug on the chipset. Due to workarounds for a bug,#012* this clock source is slow. Consider trying other clock sources
+Nov 25 12:53:23 centos7 kernel: pci 0000:00:07.3: quirk: [io  0x0400-0x043f] claimed by PIIX4 ACPI
+Nov 25 12:53:23 centos7 kernel: ACPI: PCI Interrupt Link [LNKA] (IRQs 3 4 5 7 9 10 *11 12 14 15)
+Nov 25 12:53:23 centos7 kernel: ACPI: PCI Interrupt Link [LNKB] (IRQs 3 4 5 7 9 10 11 12 14 15) *0, disabled.
+Nov 25 12:53:23 centos7 kernel: ACPI: PCI Interrupt Link [LNKC] (IRQs 3 4 5 7 9 10 11 12 14 15) *0, disabled.
+Nov 25 12:53:23 centos7 kernel: ACPI: PCI Interrupt Link [LNKD] (IRQs 3 4 5 7 9 10 11 12 14 15) *0, disabled.
+Nov 25 12:53:23 centos7 kernel: vgaarb: device added: PCI:0000:00:08.0,decodes=io+mem,owns=io+mem,locks=none
+Nov 25 12:53:23 centos7 kernel: vgaarb: loaded
+Nov 25 12:53:23 centos7 kernel: vgaarb: bridge control possible 0000:00:08.0
+Nov 25 12:53:23 centos7 kernel: SCSI subsystem initialized
+Nov 25 12:53:23 centos7 kernel: ACPI: bus type USB registered
+Nov 25 12:53:23 centos7 kernel: usbcore: registered new interface driver usbfs
+Nov 25 12:53:23 centos7 kernel: usbcore: registered new interface driver hub
+Nov 25 12:53:23 centos7 kernel: usbcore: registered new device driver usb
+Nov 25 12:53:23 centos7 kernel: EDAC MC: Ver: 3.0.0
+Nov 25 12:53:23 centos7 kernel: PCI: Using ACPI for IRQ routing
+Nov 25 12:53:23 centos7 kernel: NetLabel: Initializing
+Nov 25 12:53:23 centos7 kernel: NetLabel:  domain hash size = 128
+Nov 25 12:53:23 centos7 kernel: NetLabel:  protocols = UNLABELED CIPSOv4
+Nov 25 12:53:23 centos7 kernel: NetLabel:  unlabeled traffic allowed by default
+Nov 25 12:53:23 centos7 kernel: amd_nb: Cannot enumerate AMD northbridges
+Nov 25 12:53:23 centos7 kernel: Switched to clocksource hyperv_clocksource_tsc_page
+Nov 25 12:53:23 centos7 kernel: pnp: PnP ACPI init
+Nov 25 12:53:23 centos7 kernel: ACPI: bus type PNP registered
+Nov 25 12:53:23 centos7 kernel: system 00:06: [io  0x01e0-0x01ef] has been reserved
+Nov 25 12:53:23 centos7 kernel: system 00:06: [io  0x0160-0x016f] has been reserved
+Nov 25 12:53:23 centos7 kernel: system 00:06: [io  0x0278-0x027f] has been reserved
+Nov 25 12:53:23 centos7 kernel: system 00:06: [io  0x0378-0x037f] has been reserved
+Nov 25 12:53:23 centos7 kernel: system 00:06: [io  0x0678-0x067f] has been reserved
+Nov 25 12:53:23 centos7 kernel: system 00:06: [io  0x0778-0x077f] has been reserved
+Nov 25 12:53:23 centos7 kernel: system 00:06: [io  0x04d0-0x04d1] has been reserved
+Nov 25 12:53:23 centos7 kernel: system 00:07: [io  0x0400-0x043f] has been reserved
+Nov 25 12:53:23 centos7 kernel: system 00:07: [io  0x0370-0x0371] has been reserved
+Nov 25 12:53:23 centos7 kernel: system 00:07: [io  0x0440-0x044f] has been reserved
+Nov 25 12:53:23 centos7 kernel: system 00:07: [mem 0xfec00000-0xfec00fff] could not be reserved
+Nov 25 12:53:23 centos7 kernel: system 00:07: [mem 0xfee00000-0xfee00fff] has been reserved
+Nov 25 12:53:23 centos7 kernel: system 00:08: [mem 0x00000000-0x0009ffff] could not be reserved
+Nov 25 12:53:23 centos7 kernel: system 00:08: [mem 0x000c0000-0x000dffff] could not be reserved
+Nov 25 12:53:23 centos7 kernel: system 00:08: [mem 0x000e0000-0x000fffff] could not be reserved
+Nov 25 12:53:23 centos7 kernel: system 00:08: [mem 0x00100000-0xf7ffffff] could not be reserved
+Nov 25 12:53:23 centos7 kernel: system 00:08: [mem 0xfffc0000-0xffffffff] has been reserved
+Nov 25 12:53:23 centos7 kernel: pnp: PnP ACPI: found 9 devices
+Nov 25 12:53:23 centos7 kernel: ACPI: bus type PNP unregistered
+Nov 25 12:53:23 centos7 kernel: NET: Registered protocol family 2
+Nov 25 12:53:23 centos7 kernel: TCP established hash table entries: 32768 (order: 6, 262144 bytes)
+Nov 25 12:53:23 centos7 kernel: TCP bind hash table entries: 32768 (order: 7, 524288 bytes)
+Nov 25 12:53:23 centos7 kernel: TCP: Hash tables configured (established 32768 bind 32768)
+Nov 25 12:53:23 centos7 kernel: TCP: reno registered
+Nov 25 12:53:23 centos7 kernel: UDP hash table entries: 2048 (order: 4, 65536 bytes)
+Nov 25 12:53:23 centos7 kernel: UDP-Lite hash table entries: 2048 (order: 4, 65536 bytes)
+Nov 25 12:53:23 centos7 kernel: NET: Registered protocol family 1
+Nov 25 12:53:23 centos7 kernel: pci 0000:00:00.0: Limiting direct PCI/PCI transfers
+Nov 25 12:53:23 centos7 kernel: Unpacking initramfs...
+Nov 25 12:53:23 centos7 kernel: Freeing initrd memory: 20260k freed
+Nov 25 12:53:23 centos7 kernel: PCI-DMA: Using software bounce buffering for IO (SWIOTLB)
+Nov 25 12:53:23 centos7 kernel: software IO TLB [mem 0xf3ff0000-0xf7ff0000] (64MB) mapped at [ffff96eff3ff0000-ffff96eff7feffff]
+Nov 25 12:53:23 centos7 kernel: RAPL PMU: API unit is 2^-32 Joules, 5 fixed counters, 10737418240 ms ovfl timer
+Nov 25 12:53:23 centos7 kernel: RAPL PMU: hw unit of domain pp0-core 2^-0 Joules
+Nov 25 12:53:23 centos7 kernel: RAPL PMU: hw unit of domain package 2^-0 Joules
+Nov 25 12:53:23 centos7 kernel: RAPL PMU: hw unit of domain dram 2^-0 Joules
+Nov 25 12:53:23 centos7 kernel: RAPL PMU: hw unit of domain pp1-gpu 2^-0 Joules
+Nov 25 12:53:23 centos7 kernel: RAPL PMU: hw unit of domain psys 2^-0 Joules
+Nov 25 12:53:23 centos7 kernel: sha1_ssse3: Using AVX2 optimized SHA-1 implementation
+Nov 25 12:53:23 centos7 kernel: sha256_ssse3: Using AVX2 optimized SHA-256 implementation
+Nov 25 12:53:23 centos7 kernel: futex hash table entries: 256 (order: 2, 16384 bytes)
+Nov 25 12:53:23 centos7 kernel: Initialise system trusted keyring
+Nov 25 12:53:23 centos7 kernel: audit: initializing netlink socket (disabled)
+Nov 25 12:53:23 centos7 kernel: type=2000 audit(1574708003.212:1): initialized
+Nov 25 12:53:23 centos7 kernel: HugeTLB registered 1 GB page size, pre-allocated 0 pages
+Nov 25 12:53:23 centos7 kernel: HugeTLB registered 2 MB page size, pre-allocated 0 pages
+Nov 25 12:53:23 centos7 kernel: zpool: loaded
+Nov 25 12:53:23 centos7 kernel: zbud: loaded
+Nov 25 12:53:23 centos7 kernel: VFS: Disk quotas dquot_6.5.2
+Nov 25 12:53:23 centos7 kernel: Dquot-cache hash table entries: 512 (order 0, 4096 bytes)
+Nov 25 12:53:23 centos7 kernel: msgmni has been set to 7573
+Nov 25 12:53:23 centos7 kernel: Key type big_key registered
+Nov 25 12:53:23 centos7 kernel: NET: Registered protocol family 38
+Nov 25 12:53:23 centos7 kernel: Key type asymmetric registered
+Nov 25 12:53:23 centos7 kernel: Asymmetric key parser 'x509' registered
+Nov 25 12:53:23 centos7 kernel: Block layer SCSI generic (bsg) driver version 0.4 loaded (major 248)
+Nov 25 12:53:23 centos7 kernel: io scheduler noop registered
+Nov 25 12:53:23 centos7 kernel: io scheduler deadline registered (default)
+Nov 25 12:53:23 centos7 kernel: io scheduler cfq registered
+Nov 25 12:53:23 centos7 kernel: io scheduler mq-deadline registered
+Nov 25 12:53:23 centos7 kernel: io scheduler kyber registered
+Nov 25 12:53:23 centos7 kernel: pci_hotplug: PCI Hot Plug PCI Core version: 0.5
+Nov 25 12:53:23 centos7 kernel: pciehp: PCI Express Hot Plug Controller Driver version: 0.4
+Nov 25 12:53:23 centos7 kernel: shpchp: Standard Hot Plug PCI Controller Driver version: 0.4
+Nov 25 12:53:23 centos7 kernel: input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input0
+Nov 25 12:53:23 centos7 kernel: ACPI: Power Button [PWRF]
+Nov 25 12:53:23 centos7 kernel: GHES: HEST is not enabled!
+Nov 25 12:53:23 centos7 kernel: Serial: 8250/16550 driver, 4 ports, IRQ sharing enabled
+Nov 25 12:53:23 centos7 kernel: 00:03: ttyS0 at I/O 0x3f8 (irq = 4) is a 16550A
+Nov 25 12:53:23 centos7 kernel: 00:04: ttyS1 at I/O 0x2f8 (irq = 3) is a 16550A
+Nov 25 12:53:23 centos7 kernel: Non-volatile memory driver v1.3
+Nov 25 12:53:23 centos7 kernel: Linux agpgart interface v0.103
+Nov 25 12:53:23 centos7 kernel: crash memory driver: version 1.1
+Nov 25 12:53:23 centos7 kernel: rdac: device handler registered
+Nov 25 12:53:23 centos7 kernel: hp_sw: device handler registered
+Nov 25 12:53:23 centos7 kernel: emc: device handler registered
+Nov 25 12:53:23 centos7 kernel: alua: device handler registered
+Nov 25 12:53:23 centos7 kernel: libphy: Fixed MDIO Bus: probed
+Nov 25 12:53:23 centos7 kernel: ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+Nov 25 12:53:23 centos7 kernel: ehci-pci: EHCI PCI platform driver
+Nov 25 12:53:23 centos7 kernel: ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+Nov 25 12:53:23 centos7 kernel: ohci-pci: OHCI PCI platform driver
+Nov 25 12:53:23 centos7 kernel: uhci_hcd: USB Universal Host Controller Interface driver
+Nov 25 12:53:23 centos7 kernel: usbcore: registered new interface driver usbserial_generic
+Nov 25 12:53:23 centos7 kernel: usbserial: USB Serial support registered for generic
+Nov 25 12:53:23 centos7 kernel: i8042: PNP: PS/2 Controller [PNP0303:PS2K,PNP0f03:PS2M] at 0x60,0x64 irq 1,12
+Nov 25 12:53:23 centos7 kernel: serio: i8042 KBD port at 0x60,0x64 irq 1
+Nov 25 12:53:23 centos7 kernel: serio: i8042 AUX port at 0x60,0x64 irq 12
+Nov 25 12:53:23 centos7 kernel: mousedev: PS/2 mouse device common for all mice
+Nov 25 12:53:23 centos7 kernel: rtc_cmos 00:00: RTC can wake from S4
+Nov 25 12:53:23 centos7 kernel: rtc_cmos 00:00: rtc core: registered rtc_cmos as rtc0
+Nov 25 12:53:23 centos7 kernel: rtc_cmos 00:00: alarms up to one month, 114 bytes nvram
+Nov 25 12:53:23 centos7 kernel: cpuidle: using governor menu
+Nov 25 12:53:23 centos7 kernel: hidraw: raw HID events driver (C) Jiri Kosina
+Nov 25 12:53:23 centos7 kernel: usbcore: registered new interface driver usbhid
+Nov 25 12:53:23 centos7 kernel: usbhid: USB HID core driver
+Nov 25 12:53:23 centos7 kernel: drop_monitor: Initializing network drop monitor service
+Nov 25 12:53:23 centos7 kernel: TCP: cubic registered
+Nov 25 12:53:23 centos7 kernel: Initializing XFRM netlink socket
+Nov 25 12:53:23 centos7 kernel: NET: Registered protocol family 10
+Nov 25 12:53:23 centos7 kernel: NET: Registered protocol family 17
+Nov 25 12:53:23 centos7 kernel: mpls_gso: MPLS GSO support
+Nov 25 12:53:23 centos7 kernel: mce: Using 1 MCE banks
+Nov 25 12:53:23 centos7 kernel: Loading compiled-in X.509 certificates
+Nov 25 12:53:23 centos7 kernel: Loaded X.509 cert 'CentOS Linux kpatch signing key: ea0413152cde1d98ebdca3fe6f0230904c9ef717'
+Nov 25 12:53:23 centos7 kernel: Loaded X.509 cert 'CentOS Linux Driver update signing key: 7f421ee0ab69461574bb358861dbe77762a4201b'
+Nov 25 12:53:23 centos7 kernel: Loaded X.509 cert 'CentOS Linux kernel signing key: 341a1e7b06d687153e3ae98d3eb56e0ecd30db79'
+Nov 25 12:53:23 centos7 kernel: registered taskstats version 1
+Nov 25 12:53:23 centos7 kernel: Key type trusted registered
+Nov 25 12:53:23 centos7 kernel: Key type encrypted registered
+Nov 25 12:53:23 centos7 kernel: IMA: No TPM chip found, activating TPM-bypass! (rc=-19)
+Nov 25 12:53:23 centos7 kernel:  Magic number: 11:160:899
+Nov 25 12:53:23 centos7 kernel: rtc_cmos 00:00: setting system clock to 2019-11-25 18:53:23 UTC (1574708003)
+Nov 25 12:53:23 centos7 kernel: Freeing unused kernel memory: 1984k freed
+Nov 25 12:53:23 centos7 kernel: Write protecting the kernel read-only data: 12288k
+Nov 25 12:53:23 centos7 kernel: Freeing unused kernel memory: 420k freed
+Nov 25 12:53:23 centos7 kernel: Freeing unused kernel memory: 556k freed
+Nov 25 12:53:23 centos7 kernel: random: systemd: uninitialized urandom read (16 bytes read)
+Nov 25 12:53:23 centos7 kernel: random: systemd: uninitialized urandom read (16 bytes read)
+Nov 25 12:53:23 centos7 kernel: random: systemd: uninitialized urandom read (16 bytes read)
+Nov 25 12:53:23 centos7 systemd[1]: systemd 219 running in system mode. (+PAM +AUDIT +SELINUX +IMA -APPARMOR +SMACK +SYSVINIT +UTMP +LIBCRYPTSETUP +GCRYPT +GNUTLS +ACL +XZ +LZ4 -SECCOMP +BLKID +ELFUTILS +KMOD +IDN)
+Nov 25 12:53:23 centos7 systemd[1]: Detected virtualization microsoft.
+Nov 25 12:53:23 centos7 systemd[1]: Detected architecture x86-64.
+Nov 25 12:53:23 centos7 systemd[1]: Running in initial RAM disk.
+Nov 25 12:53:23 centos7 systemd[1]: Set hostname to <centos7.spike>.
+Nov 25 12:53:23 centos7 kernel: random: systemd: uninitialized urandom read (16 bytes read)
+Nov 25 12:53:23 centos7 kernel: random: systemd: uninitialized urandom read (16 bytes read)
+Nov 25 12:53:23 centos7 kernel: random: systemd: uninitialized urandom read (16 bytes read)
+Nov 25 12:53:23 centos7 kernel: random: systemd: uninitialized urandom read (16 bytes read)
+Nov 25 12:53:23 centos7 kernel: random: systemd: uninitialized urandom read (16 bytes read)
+Nov 25 12:53:23 centos7 kernel: random: systemd: uninitialized urandom read (16 bytes read)
+Nov 25 12:53:23 centos7 kernel: random: systemd: uninitialized urandom read (16 bytes read)
+Nov 25 12:53:23 centos7 systemd[1]: [/run/systemd/generator/dev-mapper-centos_centos7\x2droot.device.d/timeout.conf:3] Unknown lvalue 'JobRunningTimeoutSec' in section 'Unit'
+Nov 25 12:53:23 centos7 systemd[1]: Reached target Timers.
+Nov 25 12:53:23 centos7 systemd[1]: Created slice Root Slice.
+Nov 25 12:53:23 centos7 systemd[1]: Listening on udev Kernel Socket.
+Nov 25 12:53:23 centos7 systemd[1]: Reached target Swap.
+Nov 25 12:53:23 centos7 systemd[1]: Reached target Local File Systems.
+Nov 25 12:53:23 centos7 systemd[1]: Listening on udev Control Socket.
+Nov 25 12:53:23 centos7 systemd[1]: Listening on Journal Socket.
+Nov 25 12:53:23 centos7 systemd[1]: Reached target Sockets.
+Nov 25 12:53:23 centos7 systemd[1]: Created slice System Slice.
+Nov 25 12:53:23 centos7 systemd[1]: Reached target Slices.
+Nov 25 12:53:23 centos7 systemd[1]: Starting Apply Kernel Variables...
+Nov 25 12:53:23 centos7 systemd[1]: Starting Setup Virtual Console...
+Nov 25 12:53:23 centos7 systemd[1]: Starting Create list of required static device nodes for the current kernel...
+Nov 25 12:53:23 centos7 systemd[1]: Starting dracut cmdline hook...
+Nov 25 12:53:23 centos7 systemd[1]: Starting Journal Service...
+Nov 25 12:53:23 centos7 kernel: input: AT Translated Set 2 keyboard as /devices/platform/i8042/serio0/input/input1
+Nov 25 12:53:23 centos7 systemd[1]: Started Create list of required static device nodes for the current kernel.
+Nov 25 12:53:23 centos7 systemd[1]: Starting Create Static Device Nodes in /dev...
+Nov 25 12:53:23 centos7 systemd[1]: Started Apply Kernel Variables.
+Nov 25 12:53:23 centos7 systemd[1]: Started Create Static Device Nodes in /dev.
+Nov 25 12:53:23 centos7 journal: Journal started
+Nov 25 12:53:23 centos7 systemd[1]: Started Journal Service.
+Nov 25 12:53:23 centos7 systemd: Started Setup Virtual Console.
+Nov 25 12:53:23 centos7 systemd: Started dracut cmdline hook.
+Nov 25 12:53:23 centos7 systemd: Starting dracut pre-udev hook...
+Nov 25 12:53:23 centos7 kernel: device-mapper: uevent: version 1.0.3
+Nov 25 12:53:23 centos7 kernel: device-mapper: ioctl: 4.37.1-ioctl (2018-04-03) initialised: dm-devel@redhat.com
+Nov 25 12:53:23 centos7 systemd: Started dracut pre-udev hook.
+Nov 25 12:53:23 centos7 systemd: Starting udev Kernel Device Manager...
+Nov 25 12:53:23 centos7 systemd-udevd: starting version 219
+Nov 25 12:53:23 centos7 systemd: Started udev Kernel Device Manager.
+Nov 25 12:53:23 centos7 systemd: Starting udev Coldplug all Devices...
+Nov 25 12:53:23 centos7 kernel: psmouse serio1: alps: Unknown ALPS touchpad: E7=12 00 64, EC=12 00 64
+Nov 25 12:53:23 centos7 systemd: Mounting Configuration File System...
+Nov 25 12:53:23 centos7 systemd: Mounted Configuration File System.
+Nov 25 12:53:23 centos7 systemd: Started udev Coldplug all Devices.
+Nov 25 12:53:23 centos7 systemd: Starting dracut initqueue hook...
+Nov 25 12:53:23 centos7 systemd: Starting Show Plymouth Boot Screen...
+Nov 25 12:53:23 centos7 systemd: Reached target System Initialization.
+Nov 25 12:53:23 centos7 kernel: hv_vmbus: Vmbus version:4.0
+Nov 25 12:53:23 centos7 kernel: hv_vmbus: registering driver hyperv_fb
+Nov 25 12:53:23 centos7 kernel: Floppy drive(s): fd0 is 1.44M
+Nov 25 12:53:23 centos7 kernel: hyperv_fb: Screen resolution: 1152x864, Color depth: 32
+Nov 25 12:53:23 centos7 kernel: Console: switching to colour frame buffer device 144x54
+Nov 25 12:53:23 centos7 kernel: random: fast init done
+Nov 25 12:53:24 centos7 kernel: FDC 0 is an 82078.
+Nov 25 12:53:24 centos7 kernel: psmouse serio1: trackpoint: failed to get extended button data, assuming 3 buttons
+Nov 25 12:53:24 centos7 systemd: Started Show Plymouth Boot Screen.
+Nov 25 12:53:24 centos7 systemd: Started Forward Password Requests to Plymouth Directory Watch.
+Nov 25 12:53:24 centos7 systemd: Reached target Paths.
+Nov 25 12:53:24 centos7 systemd: Reached target Basic System.
+Nov 25 12:53:24 centos7 kernel: hv_vmbus: registering driver hid_hyperv
+Nov 25 12:53:24 centos7 kernel: hv_vmbus: registering driver hyperv_keyboard
+Nov 25 12:53:24 centos7 kernel: input: Microsoft Vmbus HID-compliant Mouse as /devices/virtual/input/input2
+Nov 25 12:53:24 centos7 kernel: hid-generic 0006:045E:0621.0001: input: <UNKNOWN> HID v0.01 Mouse [Microsoft Vmbus HID-compliant Mouse] on 
+Nov 25 12:53:24 centos7 kernel: hv_vmbus: registering driver hv_storvsc
+Nov 25 12:53:24 centos7 kernel: hv_vmbus: registering driver hv_netvsc
+Nov 25 12:53:24 centos7 kernel: ata_piix 0000:00:07.1: Hyper-V Virtual Machine detected, ATA device ignore set
+Nov 25 12:53:24 centos7 kernel: scsi host1: ata_piix
+Nov 25 12:53:24 centos7 kernel: scsi host2: ata_piix
+Nov 25 12:53:24 centos7 kernel: ata1: PATA max UDMA/33 cmd 0x1f0 ctl 0x3f6 bmdma 0xffa0 irq 14
+Nov 25 12:53:24 centos7 kernel: ata2: PATA max UDMA/33 cmd 0x170 ctl 0x376 bmdma 0xffa8 irq 15
+Nov 25 12:53:24 centos7 kernel: scsi host0: storvsc_host_t
+Nov 25 12:53:24 centos7 kernel: scsi 0:0:0:0: Direct-Access     Msft     Virtual Disk     1.0  PQ: 0 ANSI: 5
+Nov 25 12:53:24 centos7 kernel: scsi host3: storvsc_host_t
+Nov 25 12:53:24 centos7 kernel: sd 0:0:0:0: [sda] 266338304 512-byte logical blocks: (136 GB/127 GiB)
+Nov 25 12:53:24 centos7 kernel: sd 0:0:0:0: [sda] 4096-byte physical blocks
+Nov 25 12:53:24 centos7 kernel: sd 0:0:0:0: [sda] Write Protect is off
+Nov 25 12:53:24 centos7 kernel: sd 0:0:0:0: [sda] Write cache: enabled, read cache: enabled, doesn't support DPO or FUA
+Nov 25 12:53:24 centos7 kernel: sda: sda1 sda2
+Nov 25 12:53:24 centos7 kernel: sd 0:0:0:0: [sda] Attached SCSI disk
+Nov 25 12:53:24 centos7 kernel: ata2.00: ATAPI: Virtual CD, , max MWDMA2
+Nov 25 12:53:24 centos7 kernel: ata2.00: configured for MWDMA2
+Nov 25 12:53:24 centos7 kernel: scsi 2:0:0:0: CD-ROM            Msft     Virtual CD/ROM   1.0  PQ: 0 ANSI: 5
+Nov 25 12:53:24 centos7 kernel: sr 2:0:0:0: [sr0] scsi3-mmc drive: 0x/0x tray
+Nov 25 12:53:24 centos7 kernel: cdrom: Uniform CD-ROM driver Revision: 3.20
+Nov 25 12:53:24 centos7 systemd: Found device /dev/mapper/centos_centos7-root.
+Nov 25 12:53:24 centos7 systemd: Starting File System Check on /dev/mapper/centos_centos7-root...
+Nov 25 12:53:24 centos7 systemd-fsck: /sbin/fsck.xfs: XFS file system.
+Nov 25 12:53:24 centos7 systemd: Started File System Check on /dev/mapper/centos_centos7-root.
+Nov 25 12:53:24 centos7 systemd: Started dracut initqueue hook.
+Nov 25 12:53:24 centos7 systemd: Reached target Remote File Systems (Pre).
+Nov 25 12:53:24 centos7 systemd: Reached target Remote File Systems.
+Nov 25 12:53:24 centos7 systemd: Mounting /sysroot...
+Nov 25 12:53:24 centos7 kernel: SGI XFS with ACLs, security attributes, no debug enabled
+Nov 25 12:53:24 centos7 kernel: XFS (dm-0): Mounting V5 Filesystem
+Nov 25 12:53:24 centos7 kernel: XFS (dm-0): Starting recovery (logdev: internal)
+Nov 25 12:53:24 centos7 kernel: XFS (dm-0): Ending recovery (logdev: internal)
+Nov 25 12:53:24 centos7 systemd: Mounted /sysroot.
+Nov 25 12:53:24 centos7 systemd: Reached target Initrd Root File System.
+Nov 25 12:53:24 centos7 systemd: Starting Reload Configuration from the Real Root...
+Nov 25 12:53:24 centos7 systemd: Reloading.
+Nov 25 12:53:24 centos7 systemd: [/run/systemd/generator/dev-mapper-centos_centos7\x2droot.device.d/timeout.conf:3] Unknown lvalue 'JobRunningTimeoutSec' in section 'Unit'
+Nov 25 12:53:24 centos7 systemd: Started Reload Configuration from the Real Root.
+Nov 25 12:53:24 centos7 systemd: Reached target Initrd File Systems.
+Nov 25 12:53:24 centos7 systemd: Reached target Initrd Default Target.
+Nov 25 12:53:24 centos7 systemd: Starting dracut pre-pivot and cleanup hook...
+Nov 25 12:53:25 centos7 systemd: Started dracut pre-pivot and cleanup hook.
+Nov 25 12:53:25 centos7 systemd: Starting Cleaning Up and Shutting Down Daemons...
+Nov 25 12:53:25 centos7 systemd: Starting Plymouth switch root service...
+Nov 25 12:53:25 centos7 systemd: Stopped target Timers.
+Nov 25 12:53:25 centos7 systemd: Stopped Cleaning Up and Shutting Down Daemons.
+Nov 25 12:53:25 centos7 systemd: Stopped dracut pre-pivot and cleanup hook.
+Nov 25 12:53:25 centos7 systemd: Stopped target Initrd Default Target.
+Nov 25 12:53:25 centos7 systemd: Stopped target Basic System.
+Nov 25 12:53:25 centos7 systemd: Stopped target System Initialization.
+Nov 25 12:53:25 centos7 systemd: Stopping udev Kernel Device Manager...
+Nov 25 12:53:25 centos7 systemd: Stopped target Swap.
+Nov 25 12:53:25 centos7 systemd: Stopped Apply Kernel Variables.
+Nov 25 12:53:25 centos7 systemd: Stopped target Local File Systems.
+Nov 25 12:53:25 centos7 systemd: Stopped target Sockets.
+Nov 25 12:53:25 centos7 systemd: Stopped target Slices.
+Nov 25 12:53:25 centos7 systemd: Stopped target Paths.
+Nov 25 12:53:25 centos7 systemd: Stopped target Remote File Systems.
+Nov 25 12:53:25 centos7 systemd: Stopped target Remote File Systems (Pre).
+Nov 25 12:53:25 centos7 systemd: Stopped dracut initqueue hook.
+Nov 25 12:53:25 centos7 systemd: Stopped udev Coldplug all Devices.
+Nov 25 12:53:25 centos7 systemd: Stopped udev Kernel Device Manager.
+Nov 25 12:53:25 centos7 systemd: Stopped Create Static Device Nodes in /dev.
+Nov 25 12:53:25 centos7 systemd: Stopped Create list of required static device nodes for the current kernel.
+Nov 25 12:53:25 centos7 systemd: Stopped dracut pre-udev hook.
+Nov 25 12:53:25 centos7 systemd: Stopped dracut cmdline hook.
+Nov 25 12:53:25 centos7 systemd: Closed udev Kernel Socket.
+Nov 25 12:53:25 centos7 systemd: Closed udev Control Socket.
+Nov 25 12:53:25 centos7 systemd: Starting Cleanup udevd DB...
+Nov 25 12:53:25 centos7 systemd: Started Cleanup udevd DB.
+Nov 25 12:53:25 centos7 systemd: Reached target Switch Root.
+Nov 25 12:53:25 centos7 systemd: Started Plymouth switch root service.
+Nov 25 12:53:25 centos7 systemd: Starting Switch Root...
+Nov 25 12:53:25 centos7 systemd: Switching root.
+Nov 25 12:53:25 centos7 journal: Journal stopped
+Nov 25 12:53:25 centos7 journal: Runtime journal is using 8.0M (max allowed 189.4M, trying to leave 284.2M free of 1.8G available → current limit 189.4M).
+Nov 25 12:53:25 centos7 systemd-journald[93]: Received SIGTERM from PID 1 (systemd).
+Nov 25 12:53:25 centos7 kernel: SELinux:  Disabled at runtime.
+Nov 25 12:53:25 centos7 kernel: type=1404 audit(1574708005.191:2): selinux=0 auid=4294967295 ses=4294967295
+Nov 25 12:53:25 centos7 kernel: ip_tables: (C) 2000-2006 Netfilter Core Team
+Nov 25 12:53:25 centos7 systemd[1]: Inserted module 'ip_tables'
+Nov 25 12:53:25 centos7 journal: Journal started
+Nov 25 12:53:25 centos7 systemd: systemd 219 running in system mode. (+PAM +AUDIT +SELINUX +IMA -APPARMOR +SMACK +SYSVINIT +UTMP +LIBCRYPTSETUP +GCRYPT +GNUTLS +ACL +XZ +LZ4 -SECCOMP +BLKID +ELFUTILS +KMOD +IDN)
+Nov 25 12:53:25 centos7 systemd: Detected virtualization microsoft.
+Nov 25 12:53:25 centos7 systemd: Detected architecture x86-64.
+Nov 25 12:53:25 centos7 systemd: Set hostname to <centos7.spike>.
+Nov 25 12:53:25 centos7 systemd: Starting Flush Journal to Persistent Storage...
+Nov 25 12:53:25 centos7 systemd: Started Read and set NIS domainname from /etc/sysconfig/network.
+Nov 25 12:53:25 centos7 systemd: Started Flush Journal to Persistent Storage.
+Nov 25 12:53:25 centos7 systemd: Started LVM2 metadata daemon.
+Nov 25 12:53:25 centos7 systemd: Started Configure read-only root support.
+Nov 25 12:53:25 centos7 systemd: Starting Load/Save Random Seed...
+Nov 25 12:53:25 centos7 systemd: Started udev Coldplug all Devices.
+Nov 25 12:53:25 centos7 systemd: Started Create Static Device Nodes in /dev.
+Nov 25 12:53:25 centos7 systemd: Starting udev Kernel Device Manager...
+Nov 25 12:53:25 centos7 systemd: Started Load/Save Random Seed.
+Nov 25 12:53:25 centos7 systemd-udevd: starting version 219
+Nov 25 12:53:25 centos7 systemd: Started udev Kernel Device Manager.
+Nov 25 12:53:25 centos7 kernel: input: PC Speaker as /devices/platform/pcspkr/input/input3
+Nov 25 12:53:25 centos7 kernel: piix4_smbus 0000:00:07.3: SMBus base address uninitialized - upgrade BIOS or use force_addr=0xaddr
+Nov 25 12:53:25 centos7 kernel: random: crng init done
+Nov 25 12:53:25 centos7 kernel: hv_vmbus: registering driver hv_balloon
+Nov 25 12:53:25 centos7 kernel: pps_core: LinuxPPS API ver. 1 registered
+Nov 25 12:53:25 centos7 kernel: pps_core: Software ver. 5.3.6 - Copyright 2005-2007 Rodolfo Giometti <giometti@linux.it>
+Nov 25 12:53:25 centos7 kernel: PTP clock support registered
+Nov 25 12:53:25 centos7 kernel: hv_balloon: Using Dynamic Memory protocol version 2.0
+Nov 25 12:53:25 centos7 kernel: hv_utils: Registering HyperV Utility Driver
+Nov 25 12:53:25 centos7 kernel: hv_vmbus: registering driver hv_util
+Nov 25 12:53:25 centos7 kernel: hv_utils: Heartbeat IC version 3.0
+Nov 25 12:53:25 centos7 kernel: hv_utils: Shutdown IC version 3.0
+Nov 25 12:53:25 centos7 kernel: hv_utils: TimeSync IC version 4.0
+Nov 25 12:53:25 centos7 kernel: hv_utils: VSS IC version 5.0
+Nov 25 12:53:26 centos7 systemd: Time has been changed
+Nov 25 12:53:26 centos7 kernel: sd 0:0:0:0: Attached scsi generic sg0 type 0
+Nov 25 12:53:26 centos7 kernel: sr 2:0:0:0: Attached scsi generic sg1 type 5
+Nov 25 12:53:26 centos7 kernel: cryptd: max_cpu_qlen set to 1000
+Nov 25 12:53:26 centos7 kernel: AVX2 version of gcm_enc/dec engaged.
+Nov 25 12:53:26 centos7 kernel: AES CTR mode by8 optimization enabled
+Nov 25 12:53:26 centos7 systemd: Created slice system-lvm2\x2dpvscan.slice.
+Nov 25 12:53:26 centos7 systemd: Starting LVM2 PV scan on device 8:2...
+Nov 25 12:53:26 centos7 lvm: WARNING: lvmetad is being updated, retrying (setup) for 10 more seconds.
+Nov 25 12:53:26 centos7 systemd: Found device Virtual_Disk 1.
+Nov 25 12:53:26 centos7 kernel: alg: No test for __gcm-aes-aesni (__driver-gcm-aes-aesni)
+Nov 25 12:53:26 centos7 kernel: alg: No test for __generic-gcm-aes-aesni (__driver-generic-gcm-aes-aesni)
+Nov 25 12:53:26 centos7 lvm: 2 logical volume(s) in volume group "centos_centos7" monitored
+Nov 25 12:53:26 centos7 systemd: Started Monitoring of LVM2 mirrors, snapshots etc. using dmeventd or progress polling.
+Nov 25 12:53:26 centos7 systemd: Reached target Local File Systems (Pre).
+Nov 25 12:53:26 centos7 systemd: Mounting /boot...
+Nov 25 12:53:26 centos7 kernel: XFS (sda1): Mounting V5 Filesystem
+Nov 25 12:53:26 centos7 systemd: Found device /dev/mapper/centos_centos7-swap.
+Nov 25 12:53:26 centos7 systemd: Activating swap /dev/mapper/centos_centos7-swap...
+Nov 25 12:53:26 centos7 kernel: Adding 4063228k swap on /dev/mapper/centos_centos7-swap.  Priority:-2 extents:1 across:4063228k FS
+Nov 25 12:53:26 centos7 systemd: Activated swap /dev/mapper/centos_centos7-swap.
+Nov 25 12:53:26 centos7 systemd: Reached target Swap.
+Nov 25 12:53:26 centos7 kernel: XFS (sda1): Starting recovery (logdev: internal)
+Nov 25 12:53:26 centos7 systemd: Mounted /boot.
+Nov 25 12:53:26 centos7 kernel: XFS (sda1): Ending recovery (logdev: internal)
+Nov 25 12:53:28 centos7 lvm: 3 logical volume(s) in volume group "centos_centos7" now active
+Nov 25 12:53:28 centos7 systemd: Found device /dev/mapper/centos_centos7-home.
+Nov 25 12:53:28 centos7 systemd: Mounting /home...
+Nov 25 12:53:28 centos7 systemd: Started LVM2 PV scan on device 8:2.
+Nov 25 12:53:28 centos7 kernel: XFS (dm-2): Mounting V5 Filesystem
+Nov 25 12:53:28 centos7 kernel: XFS (dm-2): Starting recovery (logdev: internal)
+Nov 25 12:53:28 centos7 kernel: XFS (dm-2): Ending recovery (logdev: internal)
+Nov 25 12:53:28 centos7 systemd: Mounted /home.
+Nov 25 12:53:28 centos7 systemd: Reached target Local File Systems.
+Nov 25 12:53:28 centos7 systemd: Starting Import network configuration from initramfs...
+Nov 25 12:53:28 centos7 systemd: Starting Tell Plymouth To Write Out Runtime Data...
+Nov 25 12:53:28 centos7 systemd: Starting Preprocess NFS configuration...
+Nov 25 12:53:28 centos7 systemd: Started Preprocess NFS configuration.
+Nov 25 12:53:28 centos7 systemd: Started Import network configuration from initramfs.
+Nov 25 12:53:28 centos7 systemd: Starting Create Volatile Files and Directories...
+Nov 25 12:53:28 centos7 systemd: Started Tell Plymouth To Write Out Runtime Data.
+Nov 25 12:53:28 centos7 systemd: Started Create Volatile Files and Directories.
+Nov 25 12:53:28 centos7 systemd: Starting Security Auditing Service...
+Nov 25 12:53:28 centos7 systemd: Mounting RPC Pipe File System...
+Nov 25 12:53:28 centos7 systemd: Mounted RPC Pipe File System.
+Nov 25 12:53:28 centos7 kernel: RPC: Registered named UNIX socket transport module.
+Nov 25 12:53:28 centos7 kernel: RPC: Registered udp transport module.
+Nov 25 12:53:28 centos7 kernel: RPC: Registered tcp transport module.
+Nov 25 12:53:28 centos7 kernel: RPC: Registered tcp NFSv4.1 backchannel transport module.
+Nov 25 12:53:28 centos7 systemd: Reached target rpc_pipefs.target.
+Nov 25 12:53:28 centos7 auditd[761]: Started dispatcher: /sbin/audispd pid: 763
+Nov 25 12:53:28 centos7 kernel: type=1305 audit(1574708008.187:3): audit_pid=761 old=0 auid=4294967295 ses=4294967295 res=1
+Nov 25 12:53:28 centos7 audispd: No plugins found, exiting
+Nov 25 12:53:28 centos7 auditd[761]: Init complete, auditd 2.8.5 listening for events (startup state enable)
+Nov 25 12:53:28 centos7 augenrules: /sbin/augenrules: No change
+Nov 25 12:53:28 centos7 augenrules: No rules
+Nov 25 12:53:28 centos7 augenrules: enabled 1
+Nov 25 12:53:28 centos7 augenrules: failure 1
+Nov 25 12:53:28 centos7 augenrules: pid 761
+Nov 25 12:53:28 centos7 augenrules: rate_limit 0
+Nov 25 12:53:28 centos7 augenrules: backlog_limit 8192
+Nov 25 12:53:28 centos7 augenrules: lost 0
+Nov 25 12:53:28 centos7 augenrules: backlog 1
+Nov 25 12:53:28 centos7 augenrules: enabled 1
+Nov 25 12:53:28 centos7 augenrules: failure 1
+Nov 25 12:53:28 centos7 augenrules: pid 761
+Nov 25 12:53:28 centos7 augenrules: rate_limit 0
+Nov 25 12:53:28 centos7 augenrules: backlog_limit 8192
+Nov 25 12:53:28 centos7 augenrules: lost 0
+Nov 25 12:53:28 centos7 augenrules: backlog 1
+Nov 25 12:53:28 centos7 systemd: Started Security Auditing Service.
+Nov 25 12:53:28 centos7 systemd: Starting Update UTMP about System Boot/Shutdown...
+Nov 25 12:53:28 centos7 systemd: Started Update UTMP about System Boot/Shutdown.
+Nov 25 12:53:28 centos7 systemd: Reached target System Initialization.
+Nov 25 12:53:28 centos7 systemd: Started Daily Cleanup of Temporary Directories.
+Nov 25 12:53:28 centos7 systemd: Reached target Timers.
+Nov 25 12:53:28 centos7 systemd: Starting Docker Socket for the API.
+Nov 25 12:53:28 centos7 systemd: Listening on D-Bus System Message Bus Socket.
+Nov 25 12:53:28 centos7 systemd: Listening on RPCbind Server Activation Socket.
+Nov 25 12:53:28 centos7 systemd: Listening on Docker Socket for the API.
+Nov 25 12:53:28 centos7 systemd: Reached target Sockets.
+Nov 25 12:53:28 centos7 systemd: Reached target Basic System.
+Nov 25 12:53:28 centos7 systemd: Starting GSSAPI Proxy Daemon...
+Nov 25 12:53:28 centos7 systemd: Starting NTP client/server...
+Nov 25 12:53:28 centos7 systemd: Starting Login Service...
+Nov 25 12:53:28 centos7 systemd: Started D-Bus System Message Bus.
+Nov 25 12:53:28 centos7 chronyd[791]: chronyd version 3.4 starting (+CMDMON +NTP +REFCLOCK +RTC +PRIVDROP +SCFILTER +SIGND +ASYNCDNS +SECHASH +IPV6 +DEBUG)
+Nov 25 12:53:28 centos7 chronyd[791]: Frequency -8.474 +/- 0.018 ppm read from /var/lib/chrony/drift
+Nov 25 12:53:28 centos7 systemd: Starting Authorization Manager...
+Nov 25 12:53:28 centos7 systemd: Starting Dump dmesg to /var/log/dmesg...
+Nov 25 12:53:28 centos7 systemd: Started irqbalance daemon.
+Nov 25 12:53:28 centos7 systemd: Starting Network Manager...
+Nov 25 12:53:28 centos7 systemd: Started GSSAPI Proxy Daemon.
+Nov 25 12:53:28 centos7 systemd: Reached target NFS client services.
+Nov 25 12:53:28 centos7 systemd-logind: New seat seat0.
+Nov 25 12:53:28 centos7 systemd: Reached target Remote File Systems (Pre).
+Nov 25 12:53:28 centos7 systemd: Reached target Remote File Systems.
+Nov 25 12:53:28 centos7 systemd: Starting Permit User Sessions...
+Nov 25 12:53:28 centos7 systemd: Started Login Service.
+Nov 25 12:53:28 centos7 systemd-logind: Watching system buttons on /dev/input/event0 (Power Button)
+Nov 25 12:53:28 centos7 systemd: Started Permit User Sessions.
+Nov 25 12:53:28 centos7 systemd: Starting Wait for Plymouth Boot Screen to Quit...
+Nov 25 12:53:28 centos7 /usr/sbin/irqbalance: Balancing is ineffective on systems with a single cpu.  Shutting down
+Nov 25 12:53:28 centos7 systemd: Starting Terminate Plymouth Boot Screen...
+Nov 25 12:53:28 centos7 systemd: Started Command Scheduler.
+Nov 25 12:53:28 centos7 systemd: Received SIGRTMIN+21 from PID 260 (plymouthd).
+Nov 25 12:53:28 centos7 systemd: Started Wait for Plymouth Boot Screen to Quit.
+Nov 25 12:53:28 centos7 systemd: Started Getty on tty1.
+Nov 25 12:53:28 centos7 systemd: Reached target Login Prompts.
+Nov 25 12:53:28 centos7 systemd: Started Terminate Plymouth Boot Screen.
+Nov 25 12:53:28 centos7 systemd: Started Dump dmesg to /var/log/dmesg.
+Nov 25 12:53:28 centos7 systemd: Started NTP client/server.
+Nov 25 12:53:28 centos7 polkitd[801]: Started polkitd version 0.112
+Nov 25 12:53:28 centos7 NetworkManager[804]: <info>  [1574708008.4252] NetworkManager (version 1.18.0-5.el7_7.1) is starting... (for the first time)
+Nov 25 12:53:28 centos7 NetworkManager[804]: <info>  [1574708008.4254] Read config: /etc/NetworkManager/NetworkManager.conf (lib: 10-slaves-order.conf)
+Nov 25 12:53:28 centos7 systemd: Started Network Manager.
+Nov 25 12:53:28 centos7 systemd: Starting Network Manager Wait Online...
+Nov 25 12:53:28 centos7 NetworkManager[804]: <info>  [1574708008.4311] bus-manager: acquired D-Bus service "org.freedesktop.NetworkManager"
+Nov 25 12:53:28 centos7 systemd: Started Authorization Manager.
+Nov 25 12:53:28 centos7 NetworkManager[804]: <info>  [1574708008.4344] manager[0x55dcaf0e80a0]: monitoring kernel firmware directory '/lib/firmware'.
+Nov 25 12:53:28 centos7 dbus[788]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Nov 25 12:53:28 centos7 systemd: Starting Hostname Service...
+Nov 25 12:53:28 centos7 dbus[788]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Nov 25 12:53:28 centos7 systemd: Started Hostname Service.
+Nov 25 12:53:28 centos7 NetworkManager[804]: <info>  [1574708008.4502] hostname: hostname: using hostnamed
+Nov 25 12:53:28 centos7 NetworkManager[804]: <info>  [1574708008.4504] hostname: hostname changed from (none) to "centos7.spike"
+Nov 25 12:53:28 centos7 NetworkManager[804]: <info>  [1574708008.4507] dns-mgr[0x55dcaf0cf220]: init: dns=default,systemd-resolved rc-manager=file
+Nov 25 12:53:28 centos7 dbus[788]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov 25 12:53:28 centos7 systemd: Starting Network Manager Script Dispatcher Service...
+Nov 25 12:53:28 centos7 dbus[788]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov 25 12:53:28 centos7 systemd: Started Network Manager Script Dispatcher Service.
+Nov 25 12:53:28 centos7 NetworkManager[804]: <info>  [1574708008.4617] settings: Loaded settings plugin: SettingsPluginIfcfg ("/usr/lib64/NetworkManager/1.18.0-5.el7_7.1/libnm-settings-plugin-ifcfg-rh.so")
+Nov 25 12:53:28 centos7 NetworkManager[804]: <info>  [1574708008.4630] settings: Loaded settings plugin: NMSIbftPlugin ("/usr/lib64/NetworkManager/1.18.0-5.el7_7.1/libnm-settings-plugin-ibft.so")
+Nov 25 12:53:28 centos7 NetworkManager[804]: <info>  [1574708008.4632] settings: Loaded settings plugin: NMSKeyfilePlugin (internal)
+Nov 25 12:53:28 centos7 NetworkManager[804]: <info>  [1574708008.4647] ifcfg-rh: new connection /etc/sysconfig/network-scripts/ifcfg-eth0 (de5327a4-d0a6-411e-94fd-0b0c85f889df,"eth0")
+Nov 25 12:53:28 centos7 NetworkManager[804]: <info>  [1574708008.4663] manager: rfkill: Wi-Fi enabled by radio killswitch; enabled by state file
+Nov 25 12:53:28 centos7 NetworkManager[804]: <info>  [1574708008.4665] manager: rfkill: WWAN enabled by radio killswitch; enabled by state file
+Nov 25 12:53:28 centos7 NetworkManager[804]: <info>  [1574708008.4667] manager: Networking is enabled by state file
+Nov 25 12:53:28 centos7 nm-dispatcher: req:1 'hostname': new request (3 scripts)
+Nov 25 12:53:28 centos7 nm-dispatcher: req:1 'hostname': start running ordered scripts...
+Nov 25 12:53:28 centos7 NetworkManager[804]: <info>  [1574708008.4698] dhcp-init: Using DHCP client 'dhclient'
+Nov 25 12:53:28 centos7 NetworkManager[804]: <info>  [1574708008.4770] Loaded device plugin: NMWifiFactory (/usr/lib64/NetworkManager/1.18.0-5.el7_7.1/libnm-device-plugin-wifi.so)
+Nov 25 12:53:28 centos7 NetworkManager[804]: <info>  [1574708008.4813] Loaded device plugin: NMTeamFactory (/usr/lib64/NetworkManager/1.18.0-5.el7_7.1/libnm-device-plugin-team.so)
+Nov 25 12:53:28 centos7 NetworkManager[804]: <info>  [1574708008.4823] device (lo): carrier: link connected
+Nov 25 12:53:28 centos7 NetworkManager[804]: <info>  [1574708008.4824] manager: (lo): new Generic device (/org/freedesktop/NetworkManager/Devices/1)
+Nov 25 12:53:28 centos7 NetworkManager[804]: <info>  [1574708008.4844] manager: (eth0): new Ethernet device (/org/freedesktop/NetworkManager/Devices/2)
+Nov 25 12:53:28 centos7 NetworkManager[804]: <info>  [1574708008.4870] device (eth0): state change: unmanaged -> unavailable (reason 'managed', sys-iface-state: 'external')
+Nov 25 12:53:28 centos7 kernel: IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+Nov 25 12:53:28 centos7 kernel: IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+Nov 25 12:53:28 centos7 kernel: IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+Nov 25 12:53:28 centos7 NetworkManager[804]: <info>  [1574708008.4879] device (eth0): carrier: link connected
+Nov 25 12:53:28 centos7 nm-dispatcher: req:2 'connectivity-change': new request (3 scripts)
+Nov 25 12:53:28 centos7 nm-dispatcher: req:2 'connectivity-change': start running ordered scripts...
+Nov 25 12:53:28 centos7 NetworkManager[804]: <info>  [1574708008.5054] device (eth0): state change: unavailable -> disconnected (reason 'none', sys-iface-state: 'managed')
+Nov 25 12:53:28 centos7 NetworkManager[804]: <info>  [1574708008.5075] policy: auto-activating connection 'eth0' (de5327a4-d0a6-411e-94fd-0b0c85f889df)
+Nov 25 12:53:28 centos7 NetworkManager[804]: <info>  [1574708008.5109] device (eth0): Activation: starting connection 'eth0' (de5327a4-d0a6-411e-94fd-0b0c85f889df)
+Nov 25 12:53:28 centos7 NetworkManager[804]: <info>  [1574708008.5113] device (eth0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+Nov 25 12:53:28 centos7 NetworkManager[804]: <info>  [1574708008.5128] manager: NetworkManager state is now CONNECTING
+Nov 25 12:53:28 centos7 NetworkManager[804]: <info>  [1574708008.5136] device (eth0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+Nov 25 12:53:28 centos7 NetworkManager[804]: <info>  [1574708008.5148] device (eth0): state change: config -> ip-config (reason 'none', sys-iface-state: 'managed')
+Nov 25 12:53:28 centos7 NetworkManager[804]: <info>  [1574708008.5178] device (eth0): state change: ip-config -> ip-check (reason 'none', sys-iface-state: 'managed')
+Nov 25 12:53:28 centos7 NetworkManager[804]: <info>  [1574708008.5221] device (eth0): state change: ip-check -> secondaries (reason 'none', sys-iface-state: 'managed')
+Nov 25 12:53:28 centos7 NetworkManager[804]: <info>  [1574708008.5233] device (eth0): state change: secondaries -> activated (reason 'none', sys-iface-state: 'managed')
+Nov 25 12:53:28 centos7 NetworkManager[804]: <info>  [1574708008.5252] manager: NetworkManager state is now CONNECTED_LOCAL
+Nov 25 12:53:28 centos7 NetworkManager[804]: <info>  [1574708008.5401] manager: NetworkManager state is now CONNECTED_SITE
+Nov 25 12:53:28 centos7 NetworkManager[804]: <info>  [1574708008.5406] policy: set 'eth0' (eth0) as default for IPv4 routing and DNS
+Nov 25 12:53:28 centos7 NetworkManager[804]: <info>  [1574708008.5456] device (eth0): Activation: successful, device activated.
+Nov 25 12:53:28 centos7 nm-dispatcher: req:3 'up' [eth0]: new request (3 scripts)
+Nov 25 12:53:28 centos7 nm-dispatcher: req:3 'up' [eth0]: start running ordered scripts...
+Nov 25 12:53:28 centos7 NetworkManager[804]: <info>  [1574708008.5478] manager: NetworkManager state is now CONNECTED_GLOBAL
+Nov 25 12:53:28 centos7 nm-dispatcher: req:4 'connectivity-change': new request (3 scripts)
+Nov 25 12:53:28 centos7 NetworkManager[804]: <info>  [1574708008.5508] manager: startup complete
+Nov 25 12:53:28 centos7 systemd: Started Network Manager Wait Online.
+Nov 25 12:53:28 centos7 systemd: Starting LSB: Bring up/down networking...
+Nov 25 12:53:28 centos7 nm-dispatcher: req:4 'connectivity-change': start running ordered scripts...
+Nov 25 12:53:28 centos7 kernel: psmouse serio1: trackpoint: IBM TrackPoint firmware: 0x01, buttons: 3/3
+Nov 25 12:53:28 centos7 kernel: input: TPPS/2 IBM TrackPoint as /devices/platform/i8042/serio1/input/input4
+Nov 25 12:53:28 centos7 kernel: input: AT Translated Set 2 keyboard as /devices/LNXSYSTM:00/device:00/PNP0A03:00/device:08/VMBUS:01/d34b2567-b9b6-42b9-8778-0a4ec0b955bf/serio2/input/input5
+Nov 25 12:53:28 centos7 systemd-logind: Watching system buttons on /dev/input/event5 (AT Translated Set 2 keyboard)
+Nov 25 12:53:28 centos7 network: Bringing up loopback interface:  [  OK  ]
+Nov 25 12:53:28 centos7 network: Bringing up interface eth0:  [  OK  ]
+Nov 25 12:53:28 centos7 systemd: Started LSB: Bring up/down networking.
+Nov 25 12:53:28 centos7 systemd: Reached target Network.
+Nov 25 12:53:28 centos7 systemd: Starting OpenSSH server daemon...
+Nov 25 12:53:28 centos7 systemd: Starting Dynamic System Tuning Daemon...
+Nov 25 12:53:28 centos7 systemd: Starting Postfix Mail Transport Agent...
+Nov 25 12:53:28 centos7 systemd: Starting containerd container runtime...
+Nov 25 12:53:28 centos7 systemd: Reached target Network is Online.
+Nov 25 12:53:28 centos7 systemd: Starting System Logging Service...
+Nov 25 12:53:28 centos7 systemd: Starting Samba NMB Daemon...
+Nov 25 12:53:28 centos7 systemd: Starting Crash recovery kernel arming...
+Nov 25 12:53:28 centos7 systemd: Starting Notify NFS peers of a restart...
+Nov 25 12:53:28 centos7 sm-notify[1044]: Version 1.3.0 starting
+Nov 25 12:53:28 centos7 systemd: Started Notify NFS peers of a restart.
+Nov 25 12:53:28 centos7 rsyslogd: [origin software="rsyslogd" swVersion="8.24.0-41.el7_7" x-pid="1041" x-info="http://www.rsyslog.com"] start
+Nov 25 12:53:28 centos7 systemd: Started System Logging Service.
+Nov 25 12:53:28 centos7 systemd: Started containerd container runtime.
+Nov 25 12:53:28 centos7 systemd: Starting Docker Application Container Engine...
+Nov 25 12:53:28 centos7 systemd: Started OpenSSH server daemon.
+Nov 25 12:53:28 centos7 systemd: Started Samba NMB Daemon.
+Nov 25 12:53:28 centos7 systemd: Starting Samba SMB Daemon...
+Nov 25 12:53:28 centos7 nmbd[1042]: [2019/11/25 12:53:28.916617,  0] ../lib/util/become_daemon.c:138(daemon_ready)
+Nov 25 12:53:28 centos7 nmbd[1042]:  daemon_ready: STATUS=daemon 'nmbd' finished starting up and ready to serve connections
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.003573067-06:00" level=info msg="starting containerd" revision=894b81a4b802e4eb2a91d1ce216b8817763c29fb version=1.2.6
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.004148172-06:00" level=info msg="loading plugin "io.containerd.content.v1.content"..." type=io.containerd.content.v1
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.005003279-06:00" level=info msg="loading plugin "io.containerd.snapshotter.v1.btrfs"..." type=io.containerd.snapshotter.v1
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.005286682-06:00" level=warning msg="failed to load plugin io.containerd.snapshotter.v1.btrfs" error="path /var/lib/containerd/io.containerd.snapshotter.v1.btrfs must be a btrfs filesystem to be used with the btrfs snapshotter"
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.005458583-06:00" level=info msg="loading plugin "io.containerd.snapshotter.v1.aufs"..." type=io.containerd.snapshotter.v1
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.006392491-06:00" level=warning msg="failed to load plugin io.containerd.snapshotter.v1.aufs" error="modprobe aufs failed: "modprobe: FATAL: Module aufs not found.\n": exit status 1"
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.006571892-06:00" level=info msg="loading plugin "io.containerd.snapshotter.v1.native"..." type=io.containerd.snapshotter.v1
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.006859895-06:00" level=info msg="loading plugin "io.containerd.snapshotter.v1.overlayfs"..." type=io.containerd.snapshotter.v1
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.007073497-06:00" level=info msg="loading plugin "io.containerd.snapshotter.v1.zfs"..." type=io.containerd.snapshotter.v1
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.007313899-06:00" level=warning msg="failed to load plugin io.containerd.snapshotter.v1.zfs" error="path /var/lib/containerd/io.containerd.snapshotter.v1.zfs must be a zfs filesystem to be used with the zfs snapshotter"
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.007481200-06:00" level=info msg="loading plugin "io.containerd.metadata.v1.bolt"..." type=io.containerd.metadata.v1
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.007672702-06:00" level=warning msg="could not use snapshotter zfs in metadata plugin" error="path /var/lib/containerd/io.containerd.snapshotter.v1.zfs must be a zfs filesystem to be used with the zfs snapshotter"
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.007945004-06:00" level=warning msg="could not use snapshotter btrfs in metadata plugin" error="path /var/lib/containerd/io.containerd.snapshotter.v1.btrfs must be a btrfs filesystem to be used with the btrfs snapshotter"
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.008107205-06:00" level=warning msg="could not use snapshotter aufs in metadata plugin" error="modprobe aufs failed: "modprobe: FATAL: Module aufs not found.\n": exit status 1"
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.013633252-06:00" level=info msg="loading plugin "io.containerd.differ.v1.walking"..." type=io.containerd.differ.v1
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.013861154-06:00" level=info msg="loading plugin "io.containerd.gc.v1.scheduler"..." type=io.containerd.gc.v1
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.014050656-06:00" level=info msg="loading plugin "io.containerd.service.v1.containers-service"..." type=io.containerd.service.v1
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.014281658-06:00" level=info msg="loading plugin "io.containerd.service.v1.content-service"..." type=io.containerd.service.v1
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.014291558-06:00" level=info msg="loading plugin "io.containerd.service.v1.diff-service"..." type=io.containerd.service.v1
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.014298558-06:00" level=info msg="loading plugin "io.containerd.service.v1.images-service"..." type=io.containerd.service.v1
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.014305558-06:00" level=info msg="loading plugin "io.containerd.service.v1.leases-service"..." type=io.containerd.service.v1
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.014314958-06:00" level=info msg="loading plugin "io.containerd.service.v1.namespaces-service"..." type=io.containerd.service.v1
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.014322158-06:00" level=info msg="loading plugin "io.containerd.service.v1.snapshots-service"..." type=io.containerd.service.v1
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.014328258-06:00" level=info msg="loading plugin "io.containerd.runtime.v1.linux"..." type=io.containerd.runtime.v1
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.014365158-06:00" level=info msg="loading plugin "io.containerd.runtime.v2.task"..." type=io.containerd.runtime.v2
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.015636069-06:00" level=info msg="loading plugin "io.containerd.monitor.v1.cgroups"..." type=io.containerd.monitor.v1
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.016129773-06:00" level=info msg="loading plugin "io.containerd.service.v1.tasks-service"..." type=io.containerd.service.v1
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.016145774-06:00" level=info msg="loading plugin "io.containerd.internal.v1.restart"..." type=io.containerd.internal.v1
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.016173574-06:00" level=info msg="loading plugin "io.containerd.grpc.v1.containers"..." type=io.containerd.grpc.v1
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.016180674-06:00" level=info msg="loading plugin "io.containerd.grpc.v1.content"..." type=io.containerd.grpc.v1
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.016186374-06:00" level=info msg="loading plugin "io.containerd.grpc.v1.diff"..." type=io.containerd.grpc.v1
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.016191674-06:00" level=info msg="loading plugin "io.containerd.grpc.v1.events"..." type=io.containerd.grpc.v1
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.016196974-06:00" level=info msg="loading plugin "io.containerd.grpc.v1.healthcheck"..." type=io.containerd.grpc.v1
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.016202474-06:00" level=info msg="loading plugin "io.containerd.grpc.v1.images"..." type=io.containerd.grpc.v1
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.016207974-06:00" level=info msg="loading plugin "io.containerd.grpc.v1.leases"..." type=io.containerd.grpc.v1
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.016213274-06:00" level=info msg="loading plugin "io.containerd.grpc.v1.namespaces"..." type=io.containerd.grpc.v1
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.016218774-06:00" level=info msg="loading plugin "io.containerd.internal.v1.opt"..." type=io.containerd.internal.v1
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.016257274-06:00" level=info msg="loading plugin "io.containerd.grpc.v1.snapshots"..." type=io.containerd.grpc.v1
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.016264875-06:00" level=info msg="loading plugin "io.containerd.grpc.v1.tasks"..." type=io.containerd.grpc.v1
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.016271675-06:00" level=info msg="loading plugin "io.containerd.grpc.v1.version"..." type=io.containerd.grpc.v1
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.016277075-06:00" level=info msg="loading plugin "io.containerd.grpc.v1.introspection"..." type=io.containerd.grpc.v1
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.016369575-06:00" level=info msg=serving... address="/run/containerd/containerd.sock"
+Nov 25 12:53:29 centos7 containerd: time="2019-11-25T12:53:29.016376275-06:00" level=info msg="containerd successfully booted in 0.015886s"
+Nov 25 12:53:29 centos7 systemd: Started Samba SMB Daemon.
+Nov 25 12:53:29 centos7 smbd[1092]: [2019/11/25 12:53:29.110458,  0] ../lib/util/become_daemon.c:138(daemon_ready)
+Nov 25 12:53:29 centos7 smbd[1092]:  daemon_ready: STATUS=daemon 'smbd' finished starting up and ready to serve connections
+Nov 25 12:53:29 centos7 dockerd: time="2019-11-25T12:53:29.185765811-06:00" level=info msg="Starting up"
+Nov 25 12:53:29 centos7 dockerd: time="2019-11-25T12:53:29.190450551-06:00" level=info msg="parsed scheme: \"unix\"" module=grpc
+Nov 25 12:53:29 centos7 dockerd: time="2019-11-25T12:53:29.190466551-06:00" level=info msg="scheme \"unix\" not registered, fallback to default scheme" module=grpc
+Nov 25 12:53:29 centos7 dockerd: time="2019-11-25T12:53:29.190483351-06:00" level=info msg="ccResolverWrapper: sending update to cc: {[{unix:///run/containerd/containerd.sock 0  <nil>}] }" module=grpc
+Nov 25 12:53:29 centos7 dockerd: time="2019-11-25T12:53:29.190493751-06:00" level=info msg="ClientConn switching balancer to \"pick_first\"" module=grpc
+Nov 25 12:53:29 centos7 dockerd: time="2019-11-25T12:53:29.191799762-06:00" level=info msg="pickfirstBalancer: HandleSubConnStateChange: 0xc000690ba0, CONNECTING" module=grpc
+Nov 25 12:53:29 centos7 dockerd: time="2019-11-25T12:53:29.194947589-06:00" level=info msg="pickfirstBalancer: HandleSubConnStateChange: 0xc000690ba0, READY" module=grpc
+Nov 25 12:53:29 centos7 dockerd: time="2019-11-25T12:53:29.196402001-06:00" level=info msg="parsed scheme: \"unix\"" module=grpc
+Nov 25 12:53:29 centos7 dockerd: time="2019-11-25T12:53:29.196691003-06:00" level=info msg="scheme \"unix\" not registered, fallback to default scheme" module=grpc
+Nov 25 12:53:29 centos7 dockerd: time="2019-11-25T12:53:29.196880605-06:00" level=info msg="ccResolverWrapper: sending update to cc: {[{unix:///run/containerd/containerd.sock 0  <nil>}] }" module=grpc
+Nov 25 12:53:29 centos7 dockerd: time="2019-11-25T12:53:29.197065407-06:00" level=info msg="ClientConn switching balancer to \"pick_first\"" module=grpc
+Nov 25 12:53:29 centos7 dockerd: time="2019-11-25T12:53:29.197323609-06:00" level=info msg="pickfirstBalancer: HandleSubConnStateChange: 0xc0008208e0, CONNECTING" module=grpc
+Nov 25 12:53:29 centos7 dockerd: time="2019-11-25T12:53:29.197695612-06:00" level=info msg="pickfirstBalancer: HandleSubConnStateChange: 0xc0008208e0, READY" module=grpc
+Nov 25 12:53:29 centos7 kernel: TECH PREVIEW: Overlay filesystem may not be fully supported.#012Please review provided documentation for limitations.
+Nov 25 12:53:29 centos7 dockerd: time="2019-11-25T12:53:29.288361780-06:00" level=info msg="[graphdriver] using prior storage driver: overlay2"
+Nov 25 12:53:29 centos7 systemd: Started Postfix Mail Transport Agent.
+Nov 25 12:53:29 centos7 dockerd: time="2019-11-25T12:53:29.694811725-06:00" level=info msg="Loading containers: start."
+Nov 25 12:53:29 centos7 kernel: bridge: filtering via arp/ip/ip6tables is no longer available by default. Update your scripts to load br_netfilter if you need this.
+Nov 25 12:53:29 centos7 kernel: Bridge firewalling registered
+Nov 25 12:53:29 centos7 kernel: nf_conntrack version 0.5.0 (16384 buckets, 65536 max)
+Nov 25 12:53:29 centos7 systemd: Started Dynamic System Tuning Daemon.
+Nov 25 12:53:30 centos7 kernel: Netfilter messages via NETLINK v0.30.
+Nov 25 12:53:30 centos7 kernel: ctnetlink v0.93: registering with nfnetlink.
+Nov 25 12:53:30 centos7 NetworkManager[804]: <info>  [1574708010.1574] manager: (br-28726930f62e): new Bridge device (/org/freedesktop/NetworkManager/Devices/3)
+Nov 25 12:53:30 centos7 kernel: IPv6: ADDRCONF(NETDEV_UP): br-28726930f62e: link is not ready
+Nov 25 12:53:30 centos7 NetworkManager[804]: <info>  [1574708010.2759] device (br-28726930f62e): state change: unmanaged -> unavailable (reason 'connection-assumed', sys-iface-state: 'external')
+Nov 25 12:53:30 centos7 NetworkManager[804]: <info>  [1574708010.2766] manager: (docker0): new Bridge device (/org/freedesktop/NetworkManager/Devices/4)
+Nov 25 12:53:30 centos7 NetworkManager[804]: <info>  [1574708010.2774] ifcfg-rh: add connection in-memory (5d3c81eb-5ccd-45aa-b765-9f515d08a6ec,"br-28726930f62e")
+Nov 25 12:53:30 centos7 NetworkManager[804]: <info>  [1574708010.2796] device (br-28726930f62e): state change: unavailable -> disconnected (reason 'connection-assumed', sys-iface-state: 'external')
+Nov 25 12:53:30 centos7 NetworkManager[804]: <info>  [1574708010.2799] device (br-28726930f62e): Activation: starting connection 'br-28726930f62e' (5d3c81eb-5ccd-45aa-b765-9f515d08a6ec)
+Nov 25 12:53:30 centos7 NetworkManager[804]: <info>  [1574708010.2800] device (br-28726930f62e): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'external')
+Nov 25 12:53:30 centos7 NetworkManager[804]: <info>  [1574708010.2802] device (br-28726930f62e): state change: prepare -> config (reason 'none', sys-iface-state: 'external')
+Nov 25 12:53:30 centos7 NetworkManager[804]: <info>  [1574708010.2805] device (br-28726930f62e): state change: config -> ip-config (reason 'none', sys-iface-state: 'external')
+Nov 25 12:53:30 centos7 NetworkManager[804]: <info>  [1574708010.2818] device (br-28726930f62e): state change: ip-config -> ip-check (reason 'none', sys-iface-state: 'external')
+Nov 25 12:53:30 centos7 NetworkManager[804]: <info>  [1574708010.2821] device (br-28726930f62e): state change: ip-check -> secondaries (reason 'none', sys-iface-state: 'external')
+Nov 25 12:53:30 centos7 NetworkManager[804]: <info>  [1574708010.2822] device (br-28726930f62e): state change: secondaries -> activated (reason 'none', sys-iface-state: 'external')
+Nov 25 12:53:30 centos7 NetworkManager[804]: <info>  [1574708010.2891] device (br-28726930f62e): Activation: successful, device activated.
+Nov 25 12:53:30 centos7 nm-dispatcher: req:5 'up' [br-28726930f62e]: new request (3 scripts)
+Nov 25 12:53:30 centos7 nm-dispatcher: req:5 'up' [br-28726930f62e]: start running ordered scripts...
+Nov 25 12:53:30 centos7 kernel: IPv6: ADDRCONF(NETDEV_UP): docker0: link is not ready
+Nov 25 12:53:30 centos7 dockerd: time="2019-11-25T12:53:30.526694974-06:00" level=info msg="Default bridge (docker0) is assigned with an IP address 172.17.0.0/16. Daemon option --bip can be used to set a preferred IP address"
+Nov 25 12:53:30 centos7 dockerd: time="2019-11-25T12:53:30.708487014-06:00" level=info msg="Loading containers: done."
+Nov 25 12:53:30 centos7 dockerd: time="2019-11-25T12:53:30.748008649-06:00" level=info msg="Docker daemon" commit=6a30dfc graphdriver(s)=overlay2 version=19.03.2
+Nov 25 12:53:30 centos7 dockerd: time="2019-11-25T12:53:30.748734355-06:00" level=info msg="Daemon has completed initialization"
+Nov 25 12:53:30 centos7 dockerd: time="2019-11-25T12:53:30.911014231-06:00" level=info msg="API listen on /var/run/docker.sock"
+Nov 25 12:53:30 centos7 systemd: Started Docker Application Container Engine.
+Nov 25 12:53:30 centos7 systemd: Reached target Multi-User System.
+Nov 25 12:53:30 centos7 systemd: Starting Update UTMP about System Runlevel Changes...
+Nov 25 12:53:30 centos7 systemd: Started Update UTMP about System Runlevel Changes.
+Nov 25 12:53:30 centos7 kdumpctl: kexec: loaded kdump kernel
+Nov 25 12:53:30 centos7 kdumpctl: Starting kdump: [OK]
+Nov 25 12:53:31 centos7 systemd: Started Crash recovery kernel arming.
+Nov 25 12:53:31 centos7 systemd: Startup finished in 290ms (kernel) + 1.686s (initrd) + 4.912s (userspace) = 6.888s.
+Nov 25 12:53:35 centos7 chronyd[791]: Selected source 204.2.134.162
+Nov 25 12:53:35 centos7 chronyd[791]: System clock wrong by 1.847108 seconds, adjustment started
+Nov 25 12:53:35 centos7 chronyd[791]: System clock was stepped by 1.847108 seconds
+Nov 25 12:53:35 centos7 systemd: Time has been changed
+Nov 25 12:54:15 centos7 kernel: hv_balloon: Max. dynamic memory size: 1048576 MB
+Nov 25 12:54:42 centos7 chronyd[791]: Selected source 72.30.35.89
+Nov 25 12:59:03 centos7 nmbd[1042]: [2019/11/25 12:59:03.939951,  0] ../source3/nmbd/nmbd_become_lmb.c:397(become_local_master_stage2)
+Nov 25 12:59:03 centos7 nmbd[1042]:  *****
+Nov 25 12:59:03 centos7 nmbd[1042]: 
+Nov 25 12:59:03 centos7 nmbd[1042]:  Samba name server CENTOS7 is now a local master browser for workgroup WORKGROUP on subnet 172.18.0.1
+Nov 25 12:59:03 centos7 nmbd[1042]: 
+Nov 25 12:59:03 centos7 nmbd[1042]:  *****
+Nov 25 12:59:03 centos7 nmbd[1042]: [2019/11/25 12:59:03.940050,  0] ../source3/nmbd/nmbd_become_lmb.c:397(become_local_master_stage2)
+Nov 25 12:59:03 centos7 nmbd[1042]:  *****
+Nov 25 12:59:03 centos7 nmbd[1042]: 
+Nov 25 12:59:03 centos7 nmbd[1042]:  Samba name server CENTOS7 is now a local master browser for workgroup WORKGROUP on subnet 172.17.0.1
+Nov 25 12:59:03 centos7 nmbd[1042]: 
+Nov 25 12:59:03 centos7 nmbd[1042]:  *****
+Nov 25 13:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 25 13:01:01 centos7 systemd: Started Session 1 of user root.
+Nov 25 13:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 25 13:04:51 centos7 kernel: hv_utils: Heartbeat IC version 3.0
+Nov 25 13:04:51 centos7 kernel: hv_utils: Shutdown IC version 3.0
+Nov 25 13:04:51 centos7 kernel: hv_utils: TimeSync IC version 4.0
+Nov 25 13:04:51 centos7 kernel: hv_utils: VSS IC version 5.0
+Nov 25 13:06:04 centos7 systemd: Time has been changed
+Nov 25 13:06:06 centos7 NetworkManager[804]: <info>  [1574708766.1262] device (eth0): carrier: link connected
+Nov 25 13:06:07 centos7 kernel: hv_balloon: Max. dynamic memory size: 1048576 MB
+Nov 25 13:06:12 centos7 NetworkManager[804]: <info>  [1574708772.1382] device (eth0): carrier: link connected
+Nov 25 13:06:17 centos7 systemd: Starting RPC bind service...
+Nov 25 13:06:17 centos7 systemd: Reached target RPC Port Mapper.
+Nov 25 13:06:17 centos7 systemd: Started RPC bind service.
+Nov 25 13:06:41 centos7 chronyd[791]: Forward time jump detected!
+Nov 25 13:06:41 centos7 chronyd[791]: Can't synchronise: no selectable sources
+Nov 25 13:08:50 centos7 chronyd[791]: Selected source 108.59.2.24
+Nov 25 13:08:50 centos7 chronyd[791]: System clock wrong by 1.664105 seconds, adjustment started
+Nov 25 13:09:50 centos7 systemd: Starting Cleanup of Temporary Directories...
+Nov 25 13:09:50 centos7 systemd: Started Cleanup of Temporary Directories.
+Nov 25 13:11:00 centos7 chronyd[791]: Selected source 204.2.134.162
+Nov 25 13:31:30 centos7 chronyd[791]: Selected source 72.30.35.89
+Nov 25 14:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 25 14:01:01 centos7 systemd: Started Session 2 of user root.
+Nov 25 14:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 25 14:02:15 centos7 nmbd[1042]: [2019/11/25 14:02:15.269826,  0] ../source3/nmbd/nmbd_become_lmb.c:397(become_local_master_stage2)
+Nov 25 14:02:15 centos7 nmbd[1042]:  *****
+Nov 25 14:02:15 centos7 nmbd[1042]: 
+Nov 25 14:02:15 centos7 nmbd[1042]:  Samba name server CENTOS7 is now a local master browser for workgroup WORKGROUP on subnet 10.1.1.2
+Nov 25 14:02:15 centos7 nmbd[1042]: 
+Nov 25 14:02:15 centos7 nmbd[1042]:  *****
+Nov 25 14:03:47 centos7 chronyd[791]: Source 108.59.2.24 replaced with 66.241.101.63
+Nov 25 14:07:01 centos7 chronyd[791]: Selected source 66.241.101.63
+Nov 25 14:07:01 centos7 chronyd[791]: System clock wrong by 3328.875612 seconds, adjustment started
+Nov 25 14:12:25 centos7 chronyd[791]: Selected source 204.2.134.162
+Nov 25 14:17:50 centos7 chronyd[791]: Selected source 72.30.35.89
+Nov 25 15:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 25 15:01:01 centos7 systemd: Started Session 3 of user root.
+Nov 25 15:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 25 16:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 25 16:01:01 centos7 systemd: Started Session 4 of user root.
+Nov 25 16:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 25 17:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 25 17:01:01 centos7 systemd: Started Session 5 of user root.
+Nov 25 17:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 25 18:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 25 18:01:01 centos7 systemd: Started Session 6 of user root.
+Nov 25 18:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 25 19:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 25 19:01:01 centos7 systemd: Started Session 7 of user root.
+Nov 25 19:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 25 20:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 25 20:01:01 centos7 systemd: Started Session 8 of user root.
+Nov 25 20:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 25 21:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 25 21:01:01 centos7 systemd: Started Session 9 of user root.
+Nov 25 21:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 25 22:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 25 22:01:01 centos7 systemd: Started Session 10 of user root.
+Nov 25 22:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 25 23:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 25 23:01:01 centos7 systemd: Started Session 11 of user root.
+Nov 25 23:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 26 00:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 26 00:01:01 centos7 systemd: Started Session 12 of user root.
+Nov 26 00:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 26 01:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 26 01:01:01 centos7 systemd: Started Session 13 of user root.
+Nov 26 01:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 26 02:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 26 02:01:01 centos7 systemd: Started Session 14 of user root.
+Nov 26 02:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 26 03:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 26 03:01:01 centos7 systemd: Started Session 15 of user root.
+Nov 26 03:14:01 centos7 systemd: Removed slice User Slice of root.
+Nov 26 04:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 26 04:01:01 centos7 systemd: Started Session 16 of user root.
+Nov 26 04:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 26 05:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 26 05:01:01 centos7 systemd: Started Session 17 of user root.
+Nov 26 05:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 26 06:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 26 06:01:01 centos7 systemd: Started Session 18 of user root.
+Nov 26 06:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 26 07:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 26 07:01:01 centos7 systemd: Started Session 19 of user root.
+Nov 26 07:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 26 08:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 26 08:01:01 centos7 systemd: Started Session 20 of user root.
+Nov 26 08:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 26 09:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 26 09:01:01 centos7 systemd: Started Session 21 of user root.
+Nov 26 09:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 26 10:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 26 10:01:01 centos7 systemd: Started Session 22 of user root.
+Nov 26 10:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 26 11:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 26 11:01:01 centos7 systemd: Started Session 23 of user root.
+Nov 26 11:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 26 12:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 26 12:01:01 centos7 systemd: Started Session 24 of user root.
+Nov 26 12:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 26 13:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 26 13:01:01 centos7 systemd: Started Session 25 of user root.
+Nov 26 13:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 26 13:10:50 centos7 systemd: Starting Cleanup of Temporary Directories...
+Nov 26 13:10:50 centos7 systemd: Started Cleanup of Temporary Directories.
+Nov 26 14:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 26 14:01:01 centos7 systemd: Started Session 26 of user root.
+Nov 26 14:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 26 15:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 26 15:01:01 centos7 systemd: Started Session 27 of user root.
+Nov 26 15:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 26 16:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 26 16:01:01 centos7 systemd: Started Session 28 of user root.
+Nov 26 16:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 26 17:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 26 17:01:01 centos7 systemd: Started Session 29 of user root.
+Nov 26 17:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 26 18:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 26 18:01:02 centos7 systemd: Started Session 30 of user root.
+Nov 26 18:01:02 centos7 systemd: Removed slice User Slice of root.
+Nov 26 19:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 26 19:01:01 centos7 systemd: Started Session 31 of user root.
+Nov 26 19:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 26 20:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 26 20:01:01 centos7 systemd: Started Session 32 of user root.
+Nov 26 20:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 26 21:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 26 21:01:01 centos7 systemd: Started Session 33 of user root.
+Nov 26 21:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 26 22:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 26 22:01:01 centos7 systemd: Started Session 34 of user root.
+Nov 26 22:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 26 23:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 26 23:01:01 centos7 systemd: Started Session 35 of user root.
+Nov 26 23:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 27 00:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 27 00:01:01 centos7 systemd: Started Session 36 of user root.
+Nov 27 00:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 27 01:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 27 01:01:01 centos7 systemd: Started Session 37 of user root.
+Nov 27 01:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 27 02:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 27 02:01:01 centos7 systemd: Started Session 38 of user root.
+Nov 27 02:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 27 03:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 27 03:01:01 centos7 systemd: Started Session 39 of user root.
+Nov 27 03:36:01 centos7 systemd: Removed slice User Slice of root.
+Nov 27 04:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 27 04:01:01 centos7 systemd: Started Session 40 of user root.
+Nov 27 04:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 27 05:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 27 05:01:01 centos7 systemd: Started Session 41 of user root.
+Nov 27 05:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 27 06:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 27 06:01:01 centos7 systemd: Started Session 42 of user root.
+Nov 27 06:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 27 07:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 27 07:01:01 centos7 systemd: Started Session 43 of user root.
+Nov 27 07:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 27 08:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 27 08:01:01 centos7 systemd: Started Session 44 of user root.
+Nov 27 08:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 27 08:11:37 centos7 kernel: hv_utils: Heartbeat IC version 3.0
+Nov 27 08:11:37 centos7 kernel: hv_utils: Shutdown IC version 3.0
+Nov 27 08:11:37 centos7 kernel: hv_utils: TimeSync IC version 4.0
+Nov 27 08:11:37 centos7 kernel: hv_utils: VSS IC version 5.0
+Nov 27 08:12:36 centos7 systemd: Time has been changed
+Nov 27 08:12:38 centos7 NetworkManager[804]: <info>  [1574863958.0634] device (eth0): carrier: link connected
+Nov 27 08:12:38 centos7 kernel: hv_balloon: Max. dynamic memory size: 1048576 MB
+Nov 27 08:12:44 centos7 NetworkManager[804]: <info>  [1574863964.0759] device (eth0): carrier: link connected
+Nov 27 08:18:03 centos7 chronyd[791]: Forward time jump detected!
+Nov 27 08:18:03 centos7 chronyd[791]: Can't synchronise: no selectable sources
+Nov 27 08:21:16 centos7 chronyd[791]: Selected source 18.222.40.121
+Nov 27 08:21:16 centos7 chronyd[791]: System clock wrong by 1.338331 seconds, adjustment started
+Nov 27 08:24:31 centos7 chronyd[791]: Selected source 72.30.35.89
+Nov 27 09:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 27 09:01:01 centos7 systemd: Started Session 45 of user root.
+Nov 27 09:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 27 10:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 27 10:01:01 centos7 systemd: Started Session 46 of user root.
+Nov 27 10:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 27 11:01:02 centos7 systemd: Created slice User Slice of root.
+Nov 27 11:01:02 centos7 systemd: Started Session 47 of user root.
+Nov 27 11:01:02 centos7 systemd: Removed slice User Slice of root.
+Nov 27 12:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 27 12:01:01 centos7 systemd: Started Session 48 of user root.
+Nov 27 12:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 27 12:56:39 centos7 systemd: Created slice User Slice of larryc.
+Nov 27 12:56:39 centos7 systemd: Started Session 49 of user larryc.
+Nov 27 12:56:39 centos7 systemd-logind: New session 49 of user larryc.
+Nov 27 12:57:08 centos7 systemd: Started Session 50 of user larryc.
+Nov 27 12:57:08 centos7 systemd-logind: New session 50 of user larryc.
+Nov 27 12:57:35 centos7 systemd-logind: Removed session 50.
+Nov 27 12:58:02 centos7 systemd: Started Session 51 of user larryc.
+Nov 27 12:58:02 centos7 systemd-logind: New session 51 of user larryc.
+Nov 27 12:58:10 centos7 systemd: Started Session 52 of user larryc.
+Nov 27 12:58:10 centos7 systemd-logind: New session 52 of user larryc.
+Nov 27 13:00:36 centos7 systemd-logind: Removed session 52.
+Nov 27 13:00:38 centos7 systemd-logind: Removed session 51.
+Nov 27 13:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 27 13:01:01 centos7 systemd: Started Session 53 of user root.
+Nov 27 13:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 27 13:12:49 centos7 systemd: Starting Cleanup of Temporary Directories...
+Nov 27 13:12:49 centos7 systemd: Started Cleanup of Temporary Directories.
+Nov 27 14:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 27 14:01:01 centos7 systemd: Started Session 54 of user root.
+Nov 27 14:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 27 15:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 27 15:01:01 centos7 systemd: Started Session 55 of user root.
+Nov 27 15:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 27 16:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 27 16:01:01 centos7 systemd: Started Session 56 of user root.
+Nov 27 16:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 27 16:55:49 centos7 systemd: Started Session 57 of user larryc.
+Nov 27 16:55:49 centos7 systemd-logind: New session 57 of user larryc.
+Nov 27 17:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 27 17:01:01 centos7 systemd: Started Session 58 of user root.
+Nov 27 17:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 27 18:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 27 18:01:01 centos7 systemd: Started Session 59 of user root.
+Nov 27 18:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 27 19:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 27 19:01:01 centos7 systemd: Started Session 60 of user root.
+Nov 27 19:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 27 20:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 27 20:01:01 centos7 systemd: Started Session 61 of user root.
+Nov 27 20:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 27 21:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 27 21:01:01 centos7 systemd: Started Session 62 of user root.
+Nov 27 21:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 27 22:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 27 22:01:01 centos7 systemd: Started Session 63 of user root.
+Nov 27 22:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 27 23:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 27 23:01:01 centos7 systemd: Started Session 64 of user root.
+Nov 27 23:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 28 00:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 28 00:01:01 centos7 systemd: Started Session 65 of user root.
+Nov 28 00:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 28 01:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 28 01:01:01 centos7 systemd: Started Session 66 of user root.
+Nov 28 01:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 28 02:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 28 02:01:01 centos7 systemd: Started Session 67 of user root.
+Nov 28 02:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 28 03:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 28 03:01:01 centos7 systemd: Started Session 68 of user root.
+Nov 28 03:39:01 centos7 systemd: Removed slice User Slice of root.
+Nov 28 04:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 28 04:01:01 centos7 systemd: Started Session 69 of user root.
+Nov 28 04:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 28 05:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 28 05:01:01 centos7 systemd: Started Session 70 of user root.
+Nov 28 05:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 28 06:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 28 06:01:01 centos7 systemd: Started Session 71 of user root.
+Nov 28 06:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 28 07:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 28 07:01:01 centos7 systemd: Started Session 72 of user root.
+Nov 28 07:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 28 08:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 28 08:01:01 centos7 systemd: Started Session 73 of user root.
+Nov 28 08:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 28 09:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 28 09:01:01 centos7 systemd: Started Session 74 of user root.
+Nov 28 09:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 28 10:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 28 10:01:01 centos7 systemd: Started Session 75 of user root.
+Nov 28 10:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 28 11:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 28 11:01:01 centos7 systemd: Started Session 76 of user root.
+Nov 28 11:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 28 12:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 28 12:01:01 centos7 systemd: Started Session 77 of user root.
+Nov 28 12:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 28 13:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 28 13:01:01 centos7 systemd: Started Session 78 of user root.
+Nov 28 13:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 28 13:12:49 centos7 systemd: Starting Cleanup of Temporary Directories...
+Nov 28 13:12:49 centos7 systemd: Started Cleanup of Temporary Directories.
+Nov 28 14:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 28 14:01:02 centos7 systemd: Started Session 79 of user root.
+Nov 28 14:01:02 centos7 systemd: Removed slice User Slice of root.
+Nov 28 15:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 28 15:01:01 centos7 systemd: Started Session 80 of user root.
+Nov 28 15:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 28 16:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 28 16:01:01 centos7 systemd: Started Session 81 of user root.
+Nov 28 16:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 28 17:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 28 17:01:01 centos7 systemd: Started Session 82 of user root.
+Nov 28 17:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 28 18:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 28 18:01:01 centos7 systemd: Started Session 83 of user root.
+Nov 28 18:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 28 19:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 28 19:01:01 centos7 systemd: Started Session 84 of user root.
+Nov 28 19:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 28 20:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 28 20:01:01 centos7 systemd: Started Session 85 of user root.
+Nov 28 20:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 28 21:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 28 21:01:01 centos7 systemd: Started Session 86 of user root.
+Nov 28 21:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 28 22:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 28 22:01:01 centos7 systemd: Started Session 87 of user root.
+Nov 28 22:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 28 23:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 28 23:01:01 centos7 systemd: Started Session 88 of user root.
+Nov 28 23:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 29 00:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 29 00:01:01 centos7 systemd: Started Session 89 of user root.
+Nov 29 00:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 29 01:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 29 01:01:01 centos7 systemd: Started Session 90 of user root.
+Nov 29 01:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 29 02:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 29 02:01:01 centos7 systemd: Started Session 91 of user root.
+Nov 29 02:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 29 03:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 29 03:01:01 centos7 systemd: Started Session 92 of user root.
+Nov 29 03:45:01 centos7 systemd: Removed slice User Slice of root.
+Nov 29 04:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 29 04:01:01 centos7 systemd: Started Session 93 of user root.
+Nov 29 04:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 29 05:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 29 05:01:01 centos7 systemd: Started Session 94 of user root.
+Nov 29 05:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 29 06:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 29 06:01:01 centos7 systemd: Started Session 95 of user root.
+Nov 29 06:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 29 07:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 29 07:01:01 centos7 systemd: Started Session 96 of user root.
+Nov 29 07:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 29 08:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 29 08:01:01 centos7 systemd: Started Session 97 of user root.
+Nov 29 08:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 29 09:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 29 09:01:01 centos7 systemd: Started Session 98 of user root.
+Nov 29 09:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 29 09:08:45 centos7 systemd-logind: Removed session 57.
+Nov 29 10:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 29 10:01:01 centos7 systemd: Started Session 99 of user root.
+Nov 29 10:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 29 11:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 29 11:01:01 centos7 systemd: Started Session 100 of user root.
+Nov 29 11:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 29 12:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 29 12:01:01 centos7 systemd: Started Session 101 of user root.
+Nov 29 12:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 29 13:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 29 13:01:01 centos7 systemd: Started Session 102 of user root.
+Nov 29 13:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 29 13:13:49 centos7 systemd: Starting Cleanup of Temporary Directories...
+Nov 29 13:13:49 centos7 systemd: Started Cleanup of Temporary Directories.
+Nov 29 14:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 29 14:01:01 centos7 systemd: Started Session 103 of user root.
+Nov 29 14:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 29 15:01:02 centos7 systemd: Created slice User Slice of root.
+Nov 29 15:01:02 centos7 systemd: Started Session 104 of user root.
+Nov 29 15:01:02 centos7 systemd: Removed slice User Slice of root.
+Nov 29 16:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 29 16:01:01 centos7 systemd: Started Session 105 of user root.
+Nov 29 16:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 29 17:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 29 17:01:01 centos7 systemd: Started Session 106 of user root.
+Nov 29 17:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 29 17:23:00 centos7 kernel: hv_utils: Heartbeat IC version 3.0
+Nov 29 17:23:00 centos7 kernel: hv_utils: Shutdown IC version 3.0
+Nov 29 17:23:00 centos7 kernel: hv_utils: TimeSync IC version 4.0
+Nov 29 17:23:00 centos7 kernel: hv_utils: VSS IC version 5.0
+Nov 29 17:24:25 centos7 systemd: Time has been changed
+Nov 29 17:24:27 centos7 kernel: hv_balloon: Max. dynamic memory size: 1048576 MB
+Nov 29 17:24:27 centos7 NetworkManager[804]: <info>  [1575069867.3832] device (eth0): carrier: link connected
+Nov 29 17:24:28 centos7 nmbd[1042]: [2019/11/29 17:24:28.598184,  0] ../source3/nmbd/nmbd_incomingrequests.c:118(process_name_release_request)
+Nov 29 17:24:28 centos7 nmbd[1042]:  process_name_release_request: Attempt to release name WORKGROUP<1d> from IP 10.1.1.1 on subnet 10.1.1.2 being rejected as it is one of our names.
+Nov 29 17:24:28 centos7 nmbd[1042]: [2019/11/29 17:24:28.598412,  0] ../source3/nmbd/nmbd_incomingrequests.c:118(process_name_release_request)
+Nov 29 17:24:28 centos7 nmbd[1042]:  process_name_release_request: Attempt to release name WORKGROUP<1d> from IP 10.1.1.1 on subnet 10.1.1.2 being rejected as it is one of our names.
+Nov 29 17:24:33 centos7 NetworkManager[804]: <info>  [1575069873.3953] device (eth0): carrier: link connected
+Nov 29 17:25:23 centos7 chronyd[791]: Forward time jump detected!
+Nov 29 17:25:23 centos7 chronyd[791]: Can't synchronise: no selectable sources
+Nov 29 17:28:37 centos7 chronyd[791]: Selected source 66.241.101.63
+Nov 29 17:30:47 centos7 chronyd[791]: Selected source 72.30.35.89
+Nov 29 18:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 29 18:01:01 centos7 systemd: Started Session 107 of user root.
+Nov 29 18:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 29 19:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 29 19:01:01 centos7 systemd: Started Session 108 of user root.
+Nov 29 19:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 29 20:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 29 20:01:01 centos7 systemd: Started Session 109 of user root.
+Nov 29 20:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 29 21:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 29 21:01:01 centos7 systemd: Started Session 110 of user root.
+Nov 29 21:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 29 22:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 29 22:01:01 centos7 systemd: Started Session 111 of user root.
+Nov 29 22:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 29 23:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 29 23:01:01 centos7 systemd: Started Session 112 of user root.
+Nov 29 23:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 30 00:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 30 00:01:01 centos7 systemd: Started Session 113 of user root.
+Nov 30 00:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 30 01:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 30 01:01:01 centos7 systemd: Started Session 114 of user root.
+Nov 30 01:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 30 02:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 30 02:01:01 centos7 systemd: Started Session 115 of user root.
+Nov 30 02:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 30 03:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 30 03:01:01 centos7 systemd: Started Session 116 of user root.
+Nov 30 03:36:01 centos7 systemd: Removed slice User Slice of root.
+Nov 30 04:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 30 04:01:01 centos7 systemd: Started Session 117 of user root.
+Nov 30 04:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 30 05:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 30 05:01:01 centos7 systemd: Started Session 118 of user root.
+Nov 30 05:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 30 06:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 30 06:01:01 centos7 systemd: Started Session 119 of user root.
+Nov 30 06:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 30 07:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 30 07:01:01 centos7 systemd: Started Session 120 of user root.
+Nov 30 07:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 30 08:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 30 08:01:01 centos7 systemd: Started Session 121 of user root.
+Nov 30 08:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 30 09:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 30 09:01:01 centos7 systemd: Started Session 122 of user root.
+Nov 30 09:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 30 10:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 30 10:01:01 centos7 systemd: Started Session 123 of user root.
+Nov 30 10:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 30 11:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 30 11:01:01 centos7 systemd: Started Session 124 of user root.
+Nov 30 11:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 30 12:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 30 12:01:01 centos7 systemd: Started Session 125 of user root.
+Nov 30 12:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 30 13:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 30 13:01:01 centos7 systemd: Started Session 126 of user root.
+Nov 30 13:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 30 13:16:14 centos7 systemd: Starting Cleanup of Temporary Directories...
+Nov 30 13:16:14 centos7 systemd: Started Cleanup of Temporary Directories.
+Nov 30 14:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 30 14:01:01 centos7 systemd: Started Session 127 of user root.
+Nov 30 14:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 30 15:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 30 15:01:02 centos7 systemd: Started Session 128 of user root.
+Nov 30 15:01:02 centos7 systemd: Removed slice User Slice of root.
+Nov 30 16:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 30 16:01:01 centos7 systemd: Started Session 129 of user root.
+Nov 30 16:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 30 17:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 30 17:01:01 centos7 systemd: Started Session 130 of user root.
+Nov 30 17:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 30 18:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 30 18:01:01 centos7 systemd: Started Session 131 of user root.
+Nov 30 18:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 30 19:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 30 19:01:01 centos7 systemd: Started Session 132 of user root.
+Nov 30 19:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 30 20:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 30 20:01:01 centos7 systemd: Started Session 133 of user root.
+Nov 30 20:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 30 21:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 30 21:01:01 centos7 systemd: Started Session 134 of user root.
+Nov 30 21:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 30 22:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 30 22:01:01 centos7 systemd: Started Session 135 of user root.
+Nov 30 22:01:01 centos7 systemd: Removed slice User Slice of root.
+Nov 30 23:01:01 centos7 systemd: Created slice User Slice of root.
+Nov 30 23:01:01 centos7 systemd: Started Session 136 of user root.
+Nov 30 23:01:01 centos7 systemd: Removed slice User Slice of root.
+Dec  1 00:01:01 centos7 systemd: Created slice User Slice of root.
+Dec  1 00:01:01 centos7 systemd: Started Session 137 of user root.
+Dec  1 00:01:01 centos7 systemd: Removed slice User Slice of root.
+Dec  1 01:01:01 centos7 systemd: Created slice User Slice of root.
+Dec  1 01:01:01 centos7 systemd: Started Session 138 of user root.
+Dec  1 01:01:01 centos7 systemd: Removed slice User Slice of root.
+Dec  1 02:01:01 centos7 systemd: Created slice User Slice of root.
+Dec  1 02:01:01 centos7 systemd: Started Session 139 of user root.
+Dec  1 02:01:01 centos7 systemd: Removed slice User Slice of root.
+Dec  1 03:01:01 centos7 systemd: Created slice User Slice of root.
+Dec  1 03:01:01 centos7 systemd: Started Session 140 of user root.
